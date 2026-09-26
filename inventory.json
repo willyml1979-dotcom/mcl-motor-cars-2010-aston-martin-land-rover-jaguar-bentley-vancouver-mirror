@@ -1,6 +1,6 @@
 {
   "dealership": "Mcl Motor Cars 2010 Aston Martin Land Rover Jaguar Bentley Vancouver",
-  "generated_at": "2026-09-26T09:56:08",
+  "generated_at": "2026-09-26T10:20:22",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -188,16 +188,6 @@
       "condition": "new"
     },
     {
-      "name": "Defender 90 S2026",
-      "vin": "SALEJ6EX4T2636627",
-      "stock": "L26561",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/c85452ac0e20.html",
-      "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id38340636?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
-      "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id38340636?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:43:56",
-      "condition": "new"
-    },
-    {
       "name": "Range Rover Sport Dynamic SE2026",
       "vin": "SAL1L9FU5TA626421",
       "stock": "L26189",
@@ -225,6 +215,16 @@
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37786471?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37786471?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:44:41",
+      "condition": "new"
+    },
+    {
+      "name": "Range Rover Sport Dynamic SE2026",
+      "vin": "SAL1L9E90TA651580",
+      "stock": "L26469",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/8d44857022cd.html",
+      "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id38293793?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
+      "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id38293793?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T10:16:22",
       "condition": "new"
     },
     {
