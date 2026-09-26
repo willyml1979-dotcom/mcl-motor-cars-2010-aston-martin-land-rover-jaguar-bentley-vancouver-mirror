@@ -1,6 +1,6 @@
 {
   "dealership": "Mcl Motor Cars 2010 Aston Martin Land Rover Jaguar Bentley Vancouver",
-  "generated_at": "2026-09-25T09:45:42",
+  "generated_at": "2026-09-26T09:56:08",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -105,14 +105,14 @@
       "condition": "used"
     },
     {
-      "name": "Range Rover Sport Dynamic S 3.0L I6T MHEV (P400)2023",
-      "vin": "SAL1T9FU1PA138931",
-      "stock": "L26306B",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/3827ce563ff7.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-sport/2023-land-rover-range-rover-sport-id38974245",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-sport/2023-land-rover-range-rover-sport-id38974245?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T09:22:42",
-      "odometer_km": 37228,
+      "name": "Range Rover Sport P400 Dynamic SE2025",
+      "vin": "SAL1L9FU5SA449299",
+      "stock": "JL12B08",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/22c8d7722f37.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-sport/2025-land-rover-range-rover-sport-id39178041",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-sport/2025-land-rover-range-rover-sport-id39178041?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T09:52:13",
+      "odometer_km": 12000,
       "condition": "used"
     },
     {
