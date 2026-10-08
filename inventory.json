@@ -1,6 +1,6 @@
 {
   "dealership": "Mcl Motor Cars 2010 Aston Martin Land Rover Jaguar Bentley Vancouver",
-  "generated_at": "2026-09-26T10:20:22",
+  "generated_at": "2026-10-08T14:40:44",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -14,7 +14,9 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/defender/2024-land-rover-defender-id38412869?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:20:20",
       "odometer_km": 13782,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Defender 110 P300 S2024",
@@ -25,7 +27,9 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/defender/2024-land-rover-defender-id38727178?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:20:36",
       "odometer_km": 15492,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Defender 130 P500 V82025",
@@ -36,7 +40,9 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id37909222?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:20:51",
       "odometer_km": 7678,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Defender 130 P400 X-Dynamic SE2025",
@@ -47,7 +53,9 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id38981879?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:21:08",
       "odometer_km": 17016,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "New Range Rover P530 AUTOBIOGRAPHY LWB 7-SEAT2024",
@@ -58,7 +66,9 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/new-range-rover/2024-land-rover-new-range-rover-id38699157?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:21:24",
       "odometer_km": 35100,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Range Rover Evoque P250 S2026",
@@ -69,7 +79,9 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-evoque/2026-land-rover-range-rover-evoque-id37975830?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:21:40",
       "odometer_km": 3942,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Range Rover Evoque P250 S2026",
@@ -80,7 +92,9 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-evoque/2026-land-rover-range-rover-evoque-id37975834?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:21:55",
       "odometer_km": 5343,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Range Rover Evoque P250 S2026",
@@ -91,7 +105,9 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-evoque/2026-land-rover-range-rover-evoque-id37975836?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:22:11",
       "odometer_km": 6114,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Range Rover Evoque P250 S2026",
@@ -102,7 +118,9 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-evoque/2026-land-rover-range-rover-evoque-id37975846?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:22:26",
       "odometer_km": 6572,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Range Rover Sport P400 Dynamic SE2025",
@@ -113,7 +131,9 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-sport/2025-land-rover-range-rover-sport-id39178041?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T09:52:13",
       "odometer_km": 12000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Range Rover Velar P250 Dynamic SE2026",
@@ -124,7 +144,9 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-velar/2026-land-rover-range-rover-velar-id37975838?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:22:58",
       "odometer_km": 6143,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Range Rover P530 SE SWB2025",
@@ -135,7 +157,9 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover/2025-land-rover-range-rover-id39089117?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:23:14",
       "odometer_km": 27948,
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Defender 110 X2026",
@@ -145,7 +169,9 @@
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id37524685?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id37524685?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:42:35",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Defender 110 X-Dynamic SE2026",
@@ -155,7 +181,9 @@
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id37786473?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id37786473?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:42:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Defender 110 X-Dynamic SE2026",
@@ -165,7 +193,9 @@
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id37826014?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id37826014?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:43:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Defender 130 X-Dynamic SE2026",
@@ -175,7 +205,9 @@
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id38256317?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id38256317?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:43:23",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Defender 110 S2026",
@@ -185,7 +217,9 @@
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id38293796?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id38293796?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:43:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Range Rover Sport Dynamic SE2026",
@@ -195,7 +229,9 @@
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37603383?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37603383?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:44:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Range Rover Sport Dynamic SE2026",
@@ -205,7 +241,9 @@
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37786468?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37786468?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:44:26",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Range Rover Sport Dynamic SE2026",
@@ -215,7 +253,9 @@
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37786471?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37786471?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:44:41",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Range Rover Sport Dynamic SE2026",
@@ -225,7 +265,9 @@
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id38293793?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id38293793?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:16:22",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Range Rover Sport S2026",
@@ -235,7 +277,9 @@
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id38293801?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id38293801?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:44:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Range Rover SE 7-Seat LWB2026",
@@ -245,7 +289,9 @@
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover/2026-land-rover-range-rover-id37726728?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover/2026-land-rover-range-rover-id37726728?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:45:11",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "Range Rover SE SWB2026",
@@ -255,7 +301,9 @@
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover/2026-land-rover-range-rover-id38293792?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover/2026-land-rover-range-rover-id38293792?paymentOptionTerm=48&paymentOptionKmPerYearPlan=16000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T09:45:25",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
     }
   ]
 }
