@@ -1,7 +1,7 @@
 {
   "dealership": "Mcl Motor Cars 2010 Aston Martin Land Rover Jaguar Bentley Vancouver",
-  "generated_at": "2026-10-15T14:37:27",
-  "vehicle_count": 1240,
+  "generated_at": "2026-10-17T16:44:42",
+  "vehicle_count": 1183,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -27,6 +27,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/adx/2025-acura-adx-id39254462?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T15:15:50",
       "odometer_km": 33213,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ILX | Rebuilt Title | Premium Features | Exceptional V2016 Acura",
+      "vin": "19UDE2F7XGA801804",
+      "stock": "A12C015",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/befc79a9eb3a.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/ilx/2016-acura-ilx-id39360561",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/ilx/2016-acura-ilx-id39360561?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:23:23",
+      "odometer_km": 118783,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -161,29 +174,14 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Land Rover Vancouver",
-      "vin": "SALEWFFE9S2392051",
-      "stock": "L26235A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/2dee32bfd867.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/mdx/2020-acura-mdx-id39246456",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/mdx/2020-acura-mdx-id39246456?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T14:26:13",
-      "price": 122948.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Pre-Owned Inventoryat Land Rover Vancouver",
-      "vin": "SALEWFFE9S2392051",
-      "stock": "L26235A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/4fff265b89ad.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/mdx/2022-acura-mdx-id39314784",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/mdx/2022-acura-mdx-id39314784?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T14:26:29",
-      "price": 122948.0,
-      "price_currency": "CAD",
+      "name": "MDX A-Spec2019 Acura",
+      "vin": "5J8YD4H08KL803533",
+      "stock": "A262014",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/79f77908102d.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/mdx/2019-acura-mdx-id39368069",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/mdx/2019-acura-mdx-id39368069?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:23:38",
+      "odometer_km": 102400,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -228,15 +226,14 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Land Rover Vancouver",
-      "vin": "SALEWFFE9S2392051",
-      "stock": "L26235A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/3c04eff347f4.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39177937",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39177937?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T14:27:20",
-      "price": 122948.0,
-      "price_currency": "CAD",
+      "name": "MDX Platinum Elite SH-AWD2024 Acura",
+      "vin": "5J8YE1H83RL801975",
+      "stock": "A113013",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/0147b65089ae.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/mdx/2024-acura-mdx-id39375248",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/mdx/2024-acura-mdx-id39375248?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:23:53",
+      "odometer_km": 44290,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -307,15 +304,14 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Land Rover Vancouver",
-      "vin": "SALEWFFE9S2392051",
-      "stock": "L26235A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/33b6672dd979.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2013-acura-rdx-id39302933",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2013-acura-rdx-id39302933?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T14:28:24",
-      "price": 122948.0,
-      "price_currency": "CAD",
+      "name": "RDX Platinum Elite SH-AWD2019 Acura",
+      "vin": "5J8TC2H73KL801915",
+      "stock": "A260188",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/5dc5fc11b4cf.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2019-acura-rdx-id39367986",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2019-acura-rdx-id39367986?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:24:07",
+      "odometer_km": 65952,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -329,6 +325,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39013074?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T12:37:34",
       "odometer_km": 101965,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "RDX SH-AWD Platinum Elite2021 Acura",
+      "vin": "5J8TC2H98ML801350",
+      "stock": "A113012",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/ae297984f0d6.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39375246",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39375246?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:24:21",
+      "odometer_km": 77500,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -360,27 +369,13 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Land Rover Vancouver",
-      "vin": "SALEWFFE9S2392051",
-      "stock": "L26235A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/fa7030aa26ef.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39264299",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39264299?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T14:28:55",
-      "price": 122948.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "RDX A-Spec AWD2024 Acura",
       "vin": "5J8TC2H65RL804851",
       "stock": "A262051",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/004d7bac014c.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39305266",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39305266?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:15:22",
+      "last_verified": "2026-10-17T16:40:49",
       "odometer_km": 25091,
       "condition": "used",
       "city": "Vancouver",
@@ -413,27 +408,27 @@
       "province": "BC"
     },
     {
+      "name": "RDX A-Spec SH-AWD2024 Acura",
+      "vin": "5J8TC2H61RL801736",
+      "stock": "A213010",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/2116f88c270a.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39367927",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39367927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:24:36",
+      "odometer_km": 59635,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "RDX A-Spec SH-AWD2025 Acura",
       "vin": "5J8TC2H69SL804597",
       "stock": "A260189",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/e695851699ac.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39140300",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39140300?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:15:38",
+      "last_verified": "2026-10-17T16:41:03",
       "odometer_km": 22697,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "RDX Platinum Elite A-Spec AWD2025 Acura",
-      "vin": "5J8TC2H86SL803473",
-      "stock": "A113012",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/23538b03cb57.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39237495",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39237495?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:15:54",
-      "odometer_km": 9286,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -445,21 +440,8 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/f32f9089c68a.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39026373",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39026373?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:16:08",
+      "last_verified": "2026-10-17T16:41:18",
       "odometer_km": 91920,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "TLX Type S2021 Acura",
-      "vin": "19UUB7F00MA800035",
-      "stock": "MB61716",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/45660f1e3856.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39314824",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39314824?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:16:22",
-      "odometer_km": 116358,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -471,7 +453,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/de050e9dad86.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/tlx/2022-acura-tlx-id39264289",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/acura/tlx/2022-acura-tlx-id39264289?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:16:37",
+      "last_verified": "2026-10-17T16:41:34",
       "odometer_km": 86519,
       "condition": "used",
       "city": "Vancouver",
@@ -525,21 +507,21 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/9af1601ad5d3.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/a6/2019-audi-a6-id39102350",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/a6/2019-audi-a6-id39102350?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:16:53",
+      "last_verified": "2026-10-17T16:41:48",
       "odometer_km": 75704,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
     },
     {
-      "name": "A7 Sportback 55 3.0T Technik qtro Ultra 7sp S Tronic2021 Audi",
-      "vin": "WAUV2AF25MN060778",
-      "stock": "2665613",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/b098a0067ae0.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/a7-sportback/2021-audi-a7-sportback-id39140524",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/a7-sportback/2021-audi-a7-sportback-id39140524?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:17:10",
-      "odometer_km": 46247,
+      "name": "e-tron GT quattro2022 Audi",
+      "vin": "WAUCJBFW7N7004074",
+      "stock": "MB11816",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/4c0427eb491d.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/e-tron-gt/2022-audi-e-tron-gt-id39375356",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/e-tron-gt/2022-audi-e-tron-gt-id39375356?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:24:52",
+      "odometer_km": 79824,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -551,7 +533,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/f5875887a35e.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/new-q5/2025-audi-new-q5-id39116716",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/new-q5/2025-audi-new-q5-id39116716?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:17:26",
+      "last_verified": "2026-10-17T16:42:04",
       "odometer_km": 32112,
       "condition": "used",
       "city": "Vancouver",
@@ -564,7 +546,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/91bcdfa02bb0.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/new-q5/2025-audi-new-q5-id39131921",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/new-q5/2025-audi-new-q5-id39131921?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:17:41",
+      "last_verified": "2026-10-17T16:42:20",
       "odometer_km": 9452,
       "condition": "used",
       "city": "Vancouver",
@@ -577,7 +559,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/def68c7965af.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/new-sq5/2025-audi-new-sq5-id39089107",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/new-sq5/2025-audi-new-sq5-id39089107?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:17:57",
+      "last_verified": "2026-10-17T16:42:34",
       "odometer_km": 10200,
       "condition": "used",
       "city": "Vancouver",
@@ -605,7 +587,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/e6e2aab64c88.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q3/2019-audi-q3-id39140522",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q3/2019-audi-q3-id39140522?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:18:12",
+      "last_verified": "2026-10-17T16:42:54",
       "odometer_km": 61864,
       "condition": "used",
       "city": "Vancouver",
@@ -618,7 +600,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/661a5b8de1d6.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q3/2022-audi-q3-id39254430",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q3/2022-audi-q3-id39254430?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:18:27",
+      "last_verified": "2026-10-17T16:43:10",
       "odometer_km": 37529,
       "condition": "used",
       "city": "Vancouver",
@@ -644,7 +626,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/173d513aa522.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q3/2025-audi-q3-id39184716",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q3/2025-audi-q3-id39184716?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:18:43",
+      "last_verified": "2026-10-17T16:43:25",
       "odometer_km": 24300,
       "condition": "used",
       "city": "Vancouver",
@@ -657,7 +639,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/2b116fa94b80.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q5/2018-audi-q5-id39222360",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q5/2018-audi-q5-id39222360?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:18:59",
+      "last_verified": "2026-10-17T16:43:39",
       "odometer_km": 100612,
       "condition": "used",
       "city": "Vancouver",
@@ -677,26 +659,13 @@
       "province": "BC"
     },
     {
-      "name": "Q5 45 2.0T Progressiv quattro 7sp S Tronic2022 Audi",
-      "vin": "WA1EAAFY4N2018996",
-      "stock": "2652274",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/a5624b669461.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q5/2022-audi-q5-id39237545",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q5/2022-audi-q5-id39237545?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T12:39:46",
-      "odometer_km": 62000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Q5 45 2.0T Technik quattro 7sp S Tronic2023 Audi",
       "vin": "WA1FAAFY9P2102206",
       "stock": "I13489A",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/4ee113fa1c8d.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q5/2023-audi-q5-id39174616",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q5/2023-audi-q5-id39174616?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:19:15",
+      "last_verified": "2026-10-17T16:43:54",
       "odometer_km": 46381,
       "condition": "used",
       "city": "Vancouver",
@@ -709,7 +678,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/d60326272708.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q6-e-tron/2025-audi-q6-e-tron-id39163997",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q6-e-tron/2025-audi-q6-e-tron-id39163997?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:19:29",
+      "last_verified": "2026-10-17T16:44:10",
       "odometer_km": 54299,
       "condition": "used",
       "city": "Vancouver",
@@ -791,8 +760,8 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/554daa767649.html",
       "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q8/2025-audi-q8-id38604622",
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/q8/2025-audi-q8-id38604622?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:19:44",
-      "odometer_km": 32744,
+      "last_verified": "2026-10-17T16:44:26",
+      "odometer_km": 33599,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -980,6 +949,19 @@
       "province": "BC"
     },
     {
+      "name": "SQ6 e-tron quattro Technik2025 Audi",
+      "vin": "WA135BGF3SA029701",
+      "stock": "27B4667",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/b7d4ce77029b.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/sq6-e-tron/2025-audi-sq6-e-tron-id39368091",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/audi/sq6-e-tron/2025-audi-sq6-e-tron-id39368091?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:25:05",
+      "odometer_km": 42986,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "SQ7 4.0 TFSI quattro2026 Audi",
       "vin": "WA1AWBF74TD012971",
       "stock": "JL11708",
@@ -1027,32 +1009,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/330i/2026-bmw-330i-id39069335?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T12:22:34",
       "odometer_km": 14901,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "430i xDrive Coupe2021 BMW",
-      "vin": "WBA73AP09MCF10661",
-      "stock": "L26685A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/6f50239793ba.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/430i/2021-bmw-430i-id39281900",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/430i/2021-bmw-430i-id39281900?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T15:08:57",
-      "odometer_km": 62343,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "5 Series 530e xDrive iPerformance2018 BMW",
-      "vin": "WBAJB1C57JG623312",
-      "stock": "G27013A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/b8275fe5c2d0.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/5-series/2018-bmw-5-series-id39222359",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/5-series/2018-bmw-5-series-id39222359?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:22:50",
-      "odometer_km": 93221,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1110,14 +1066,27 @@
       "province": "BC"
     },
     {
-      "name": "iX xDrive50 w/Premium Enhanced Package2024 BMW",
-      "vin": "WB523CF08RCN74233",
-      "stock": "A215011",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/113a28c5be7f.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/ix/2024-bmw-ix-id39314701",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/ix/2024-bmw-ix-id39314701?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:23:55",
-      "odometer_km": 41875,
+      "name": "i4 M50 xDrive2024 BMW",
+      "vin": "WBY33AW05RFR68265",
+      "stock": "MB12F01",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/f2e66c8871e0.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/i4/2024-bmw-i4-id39375357",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/i4/2024-bmw-i4-id39375357?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:25:21",
+      "odometer_km": 39950,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "iX M602023 BMW",
+      "vin": "WB533CF07PCM58622",
+      "stock": "G12C000",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/65b58ecb775e.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/ix/2023-bmw-ix-id39368220",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/ix/2023-bmw-ix-id39368220?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:25:36",
+      "odometer_km": 74673,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1131,6 +1100,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/m2/2020-bmw-m2-id39164043?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T12:24:11",
       "odometer_km": 39228,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "M2 Competition2021 BMW",
+      "vin": "WBS2U7C08M7H74412",
+      "stock": "H22C003",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/682d64c66882.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/m2/2021-bmw-m2-id39367838",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/m2/2021-bmw-m2-id39367838?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:26:08",
+      "odometer_km": 12133,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1294,19 +1276,6 @@
       "province": "BC"
     },
     {
-      "name": "X1 xDrive28i2021 BMW",
-      "vin": "WBXJG9C04M5T03021",
-      "stock": "H126149",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/8182fcd48f94.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/x1/2021-bmw-x1-id39222445",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/x1/2021-bmw-x1-id39222445?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:26:22",
-      "odometer_km": 108022,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "X1 xDrive28i2023 BMW",
       "vin": "WBX73EF03P5X75337",
       "stock": "H32E001",
@@ -1367,19 +1336,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/x3/2019-bmw-x3-id39174591?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T12:27:36",
       "odometer_km": 132986,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "X3 xDrive30i2020 BMW",
-      "vin": "5UXTY5C05L9B12163",
-      "stock": "6T8049A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/6003bbf4be15.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/x3/2020-bmw-x3-id39108571",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/x3/2020-bmw-x3-id39108571?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:27:50",
-      "odometer_km": 106042,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1458,6 +1414,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/x5/2021-bmw-x5-id39267232?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T12:45:30",
       "odometer_km": 62589,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "X5 xDrive45e2022 BMW",
+      "vin": "5UXTA6C09N9L27751",
+      "stock": "A12F001",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/501b9025cf41.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/x5/2022-bmw-x5-id39375249",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/bmw/x5/2022-bmw-x5-id39375249?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:26:22",
+      "odometer_km": 53390,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1567,21 +1536,6 @@
       "province": "BC"
     },
     {
-      "name": "CTS Coupe 3.6L SIDI RWD2011 Cadillac",
-      "vin": "1G6DJ1ED4B0113018",
-      "stock": "L26077A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/e1ce754a6bf6.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/cadillac/cts/2011-cadillac-cts-id39309087",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/cadillac/cts/2011-cadillac-cts-id39309087?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:29:55",
-      "price": 13999.0,
-      "price_currency": "CAD",
-      "odometer_km": 132408,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "CTS Sedan AWD 2.0L Turbo2018 Cadillac",
       "vin": "1G6AW5SX7J0127021",
       "stock": "26391A",
@@ -1590,19 +1544,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/cadillac/cts/2018-cadillac-cts-id39018396?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T12:30:11",
       "odometer_km": 62680,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Escalade Platinum2019 Cadillac",
-      "vin": "1GYS4DKJ5KR133274",
-      "stock": "6M8453A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/8561f62a8bd5.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/cadillac/escalade/2019-cadillac-escalade-id39309148",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/cadillac/escalade/2019-cadillac-escalade-id39309148?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:30:25",
-      "odometer_km": 56194,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1820,6 +1761,19 @@
       "province": "BC"
     },
     {
+      "name": "Silverado 1500 Crew Cab Short Box 4-Wheel Drive ZR22024 Chevrolet",
+      "vin": "3GCUDHEL9RG337296",
+      "stock": "A12C016",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/ba586f476103.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/chevrolet/silverado-1500/2024-chevrolet-silverado-1500-id39360563",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/chevrolet/silverado-1500/2024-chevrolet-silverado-1500-id39360563?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:26:37",
+      "odometer_km": 57719,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Silverado 1500 Crew Cab Short Box 4-Wheel Drive ZR22025 Chevrolet",
       "vin": "3GCUKHE85SG192605",
       "stock": "A12A015",
@@ -1963,14 +1917,14 @@
       "province": "BC"
     },
     {
-      "name": "Challenger R/T2021 Dodge",
-      "vin": "2C3CDZBT7MH576204",
-      "stock": "H32E001",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/7ed4b2b24a38.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/dodge/challenger/2021-dodge-challenger-id38901399",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/dodge/challenger/2021-dodge-challenger-id38901399?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:34:28",
-      "odometer_km": 27485,
+      "name": "Charger GT AWD2018 Dodge",
+      "vin": "2C3CDXJG6JH225756",
+      "stock": "N226102",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/33050e65328c.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/dodge/charger/2018-dodge-charger-id39374516",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/dodge/charger/2018-dodge-charger-id39374516?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:26:50",
+      "odometer_km": 92314,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2088,19 +2042,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/ford/bronco/2025-ford-bronco-id38974242?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T12:35:32",
       "odometer_km": 16778,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Edge SEL - AWD2018 Ford",
-      "vin": "2FMPK4J86JBB66362",
-      "stock": "H261055",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/f13287cc517e.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/ford/edge/2018-ford-edge-id39102742",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/ford/edge/2018-ford-edge-id39102742?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:36:07",
-      "odometer_km": 96467,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2251,19 +2192,6 @@
       "province": "BC"
     },
     {
-      "name": "F-150 4x4 - SuperCrew LARIAT - 145 WB2023 Ford",
-      "vin": "1FTEW1EP8PKF17867",
-      "stock": "A116008",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/6b5f696baf3b.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/ford/f-150/2023-ford-f-150-id39254464",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/ford/f-150/2023-ford-f-150-id39254464?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T12:51:41",
-      "odometer_km": 126880,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "F-150 Raptor2023 Ford",
       "vin": "1FTFW1RG1PFD17727",
       "stock": "G12E004",
@@ -2368,19 +2296,6 @@
       "province": "BC"
     },
     {
-      "name": "F150 4x4 - Supercrew Raptor - 145'' WB2019 Ford",
-      "vin": "1FTFW1RG3KFC14317",
-      "stock": "A12A015",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/163c9f728221.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/ford/f150/2019-ford-f150-id38908340",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/ford/f150/2019-ford-f150-id38908340?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:39:46",
-      "odometer_km": 70629,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "F150 4x4 - Supercrew XLT - 145 WB2019 Ford",
       "vin": "1FTEW1EP1KKC79806",
       "stock": "26H168A",
@@ -2415,19 +2330,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/ford/f150/2023-ford-f150-id38954187?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T12:40:17",
       "odometer_km": 69790,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "F150 Raptor 4X4 SuperCrew 5.5' Box2023 Ford",
-      "vin": "1FTFW1RG4PFD17155",
-      "stock": "A22C003",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/1be0c1c594ad.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/ford/f150/2023-ford-f150-id39069058",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/ford/f150/2023-ford-f150-id39069058?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:40:31",
-      "odometer_km": 64969,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2800,19 +2702,6 @@
     },
     {
       "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT42024 GMC",
-      "vin": "3GTUUEE87RG253780",
-      "stock": "N12B000",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/b48ef73e69c9.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39183908",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39183908?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:46:22",
-      "odometer_km": 18248,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT42024 GMC",
       "vin": "3GTUUEE81RG331664",
       "stock": "MB62C00",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/20bb90c7ff64.html",
@@ -2864,19 +2753,6 @@
       "province": "BC"
     },
     {
-      "name": "Sierra 3500HD 4WD Crew Cab Standard Box Denali2024 GMC",
-      "vin": "1GT49WE76RF386823",
-      "stock": "A12C016",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/37b89b06aa61.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id38981821",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id38981821?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:47:22",
-      "odometer_km": 47624,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Sierra 3500HD 4WD Crew Cab Long Box AT42024 GMC",
       "vin": "1GT49VEY1RF273378",
       "stock": "H32C000",
@@ -2916,14 +2792,16 @@
       "province": "BC"
     },
     {
-      "name": "Accord Sedan Sport CVT2019 Honda",
-      "vin": "1HGCV1F92KA803451",
-      "stock": "H126112",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/52fca7e2bc92.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/accord/2019-honda-accord-id39102066",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/accord/2019-honda-accord-id39102066?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:48:23",
-      "odometer_km": 18786,
+      "name": "Accord Sedan EX-L V6 at2013 Honda",
+      "vin": "1HGCR2F8XDA802407",
+      "stock": "H127211",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/ca77aecf0b2e.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/accord/2013-honda-accord-id39374891",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/accord/2013-honda-accord-id39374891?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:27:06",
+      "price": 19499.0,
+      "price_currency": "CAD",
+      "odometer_km": 88118,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2950,19 +2828,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/accord/2024-honda-accord-id39055798?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T12:55:14",
       "odometer_km": 118622,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Civic Hybrid Sport eCVT Sedan2025 Honda",
-      "vin": "2HGFE4F85SH005131",
-      "stock": "H126271",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/6563cb768920.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id38931042",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id38931042?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T12:55:31",
-      "odometer_km": 12366,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3064,10 +2929,10 @@
       "name": "Civic Sedan Touring CVT2019 Honda",
       "vin": "2HGFC1F9XKH106002",
       "stock": "H313039",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/65aad68b1584.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/civic/2019-honda-civic-id39360498",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/civic/2019-honda-civic-id39360498?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T12:57:22",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/594419e609b7.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/civic/2019-honda-civic-id39367944",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/civic/2019-honda-civic-id39367944?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:27:21",
       "odometer_km": 53333,
       "condition": "used",
       "city": "Vancouver",
@@ -3436,6 +3301,21 @@
       "province": "BC"
     },
     {
+      "name": "CR-V EX 4AT2003 Honda",
+      "vin": "JHLRD78853C800975",
+      "stock": "H126200",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/a301be61864d.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/cr-v/2003-honda-cr-v-id39374892",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/cr-v/2003-honda-cr-v-id39374892?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:27:35",
+      "price": 8750.0,
+      "price_currency": "CAD",
+      "odometer_km": 214000,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "CR-V EX-L AWD2014 Honda",
       "vin": "2HKRM4H7XEH131130",
       "stock": "H27084A",
@@ -3446,6 +3326,20 @@
       "price": 18995.0,
       "price_currency": "CAD",
       "odometer_km": 86802,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V EX AWD2014 Honda",
+      "vin": "2HKRM4H34EH105250",
+      "stock": "A113013",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/982dbc99d3a8.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/cr-v/2014-honda-cr-v-id39360562",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/cr-v/2014-honda-cr-v-id39360562?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:27:49",
+      "price": 15995.0,
+      "price_currency": "CAD",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3544,6 +3438,20 @@
       "province": "BC"
     },
     {
+      "name": "Fit Hatchback  DX-A at2009 Honda",
+      "stock": "MB12C00",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/36cd1215cd9a.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/fit/2009-honda-fit-id39375359",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/fit/2009-honda-fit-id39375359?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:28:04",
+      "price": 10995.0,
+      "price_currency": "CAD",
+      "odometer_km": 97300,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "HR-V EX 4WD CVT2016 Honda",
       "vin": "3CZRU6H51GM105839",
       "stock": "26B4490",
@@ -3635,19 +3543,6 @@
       "province": "BC"
     },
     {
-      "name": "HR-V Sport AWD CVT2025 Honda",
-      "vin": "3CZRZ2H5XSM105146",
-      "stock": "H27078A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/da7b25147b8f.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39254358",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39254358?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:05:00",
-      "odometer_km": 10837,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "HR-V LX AWD CVT2025 Honda",
       "vin": "3CZRZ2H34SM104041",
       "stock": "H217004",
@@ -3662,39 +3557,26 @@
     },
     {
       "name": "HR-V Sport AWD CVT2025 Honda",
-      "vin": "3CZRZ2H56SM108142",
-      "stock": "H126119",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/de70a9e01c86.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39325298",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39325298?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T15:10:03",
-      "odometer_km": 12300,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "HR-V Sport AWD CVT2025 Honda",
       "vin": "3CZRZ2H54SM110536",
       "stock": "H313039",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/5f5c7ed3ab05.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39360500",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39360500?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:05:33",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/79ad2b667729.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39367948",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39367948?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:28:19",
       "odometer_km": 17586,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
     },
     {
-      "name": "Odyssey Touring2018 Honda",
-      "vin": "5FNRL6H8XJB502965",
-      "stock": "L26443A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/76c00704d893.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/odyssey/2018-honda-odyssey-id39222674",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/odyssey/2018-honda-odyssey-id39222674?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:52:25",
-      "odometer_km": 84140,
+      "name": "HR-V Sport AWD CVT2026 Honda",
+      "vin": "3CZRZ2H54TM100977",
+      "stock": "H127147",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/3f7f229cc60d.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/hr-v/2026-honda-hr-v-id39368274",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/hr-v/2026-honda-hr-v-id39368274?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:28:35",
+      "odometer_km": 26855,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3708,19 +3590,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/odyssey/2019-honda-odyssey-id39346651?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:05:48",
       "odometer_km": 52268,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Odyssey Touring2023 Honda",
-      "vin": "5FNRL6H8XPB500626",
-      "stock": "H217003",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/0eb5f9ff6f71.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/odyssey/2023-honda-odyssey-id38931258",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/odyssey/2023-honda-odyssey-id38931258?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:52:40",
-      "odometer_km": 49160,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3786,19 +3655,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39069086?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T12:53:38",
       "odometer_km": 21929,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Odyssey Sport-L Auto2025 Honda",
-      "vin": "5FNRL6H73SB501133",
-      "stock": "H217004",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/f920ab783510.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39246387",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39246387?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:53:55",
-      "odometer_km": 17548,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3921,6 +3777,19 @@
       "province": "BC"
     },
     {
+      "name": "Pilot Touring 8P2021 Honda",
+      "vin": "5FNYF6H79MB505631",
+      "stock": "H126251",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/f8161e26670e.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/pilot/2021-honda-pilot-id39368272",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/pilot/2021-honda-pilot-id39368272?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:28:49",
+      "odometer_km": 104820,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Pilot Touring 8P2022 Honda",
       "vin": "5FNYF6H98NB507681",
       "stock": "MB61216",
@@ -3968,19 +3837,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/pilot/2023-honda-pilot-id39223239?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T12:57:04",
       "odometer_km": 88500,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Pilot TrailSport AWD2024 Honda",
-      "vin": "5FNYG1H60RB502194",
-      "stock": "H213005",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/1736c5f71661.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/pilot/2024-honda-pilot-id39012601",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/pilot/2024-honda-pilot-id39012601?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:57:21",
-      "odometer_km": 33514,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -4063,19 +3919,6 @@
       "province": "BC"
     },
     {
-      "name": "Ridgeline Touring2021 Honda",
-      "vin": "5FPYK3F79MB500921",
-      "stock": "S261075",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/5d9951ea5cdc.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/ridgeline/2021-honda-ridgeline-id39207355",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/ridgeline/2021-honda-ridgeline-id39207355?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T12:58:37",
-      "odometer_km": 43300,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Ridgeline Touring2023 Honda",
       "vin": "5FPYK3F7XPB501435",
       "stock": "H261278",
@@ -4084,6 +3927,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/ridgeline/2023-honda-ridgeline-id39281720?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:07:03",
       "odometer_km": 21771,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Ridgeline Black Edition AWD2024 Honda",
+      "vin": "5FPYK3F83RB500963",
+      "stock": "2651322",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/f48d2b9fb02f.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/ridgeline/2024-honda-ridgeline-id39368011",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/honda/ridgeline/2024-honda-ridgeline-id39368011?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:29:07",
+      "odometer_km": 31000,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -4192,19 +4048,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/hyundai/kona/2019-hyundai-kona-id39246639?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:07:49",
       "odometer_km": 124762,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Kona Ultimate2020 Hyundai",
-      "vin": "KM8K5CA52LU481612",
-      "stock": "25413A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/7954523783d9.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/hyundai/kona/2020-hyundai-kona-id38800972",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/hyundai/kona/2020-hyundai-kona-id38800972?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:00:11",
-      "odometer_km": 15458,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -4753,6 +4596,19 @@
       "province": "BC"
     },
     {
+      "name": "Grand Cherokee 4X4 Limited2017 Jeep",
+      "vin": "1C4RJFBGXHC905308",
+      "stock": "N22F000",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/1b0045dd4635.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/jeep/grand-cherokee-4x4/2017-jeep-grand-cherokee-4x4-id39374517",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/jeep/grand-cherokee-4x4/2017-jeep-grand-cherokee-4x4-id39374517?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:29:23",
+      "odometer_km": 90644,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Grand Cherokee 4X4 Laredo2018 Jeep",
       "vin": "1C4RJFAG7JC364936",
       "stock": "26097A",
@@ -4792,19 +4648,6 @@
       "province": "BC"
     },
     {
-      "name": "Grand Cherokee 4xe w/Luxury Tech Group II2023 Jeep",
-      "vin": "1C4RJYB66P8800706",
-      "stock": "A22E002",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/079c5311e877.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/jeep/grand-cherokee/2023-jeep-grand-cherokee-id39089022",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/jeep/grand-cherokee/2023-jeep-grand-cherokee-id39089022?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:08:04",
-      "odometer_km": 27950,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Wrangler 4xe Sahara 4 Door 4x42024 Jeep",
       "vin": "1C4RJXP63RW215681",
       "stock": "L26238B",
@@ -4813,6 +4656,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/jeep/wrangler-4xe/2024-jeep-wrangler-4xe-id38887508?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:08:19",
       "odometer_km": 7700,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Wrangler Unlimited Rubicon2021 Jeep",
+      "vin": "1C4JJXFM9MW835165",
+      "stock": "A12C018",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/e163ef98f265.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/jeep/wrangler-unlimited/2021-jeep-wrangler-unlimited-id39367988",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/jeep/wrangler-unlimited/2021-jeep-wrangler-unlimited-id39367988?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:29:38",
+      "odometer_km": 44621,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -4854,19 +4710,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/jeep/wrangler/2026-jeep-wrangler-id38900819?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:08:50",
       "odometer_km": 26832,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "EV6 Land w/GT-Line Pkg 1 AWD2024 Kia",
-      "vin": "KNDC4DLC8R5622778",
-      "stock": "A12C016",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/d8187c85ab98.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/kia/ev6/2024-kia-ev6-id39207290",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/kia/ev6/2024-kia-ev6-id39207290?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:11:53",
-      "odometer_km": 60325,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -4919,21 +4762,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/kia/k4/2026-kia-k4-id39351496?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:12:22",
       "odometer_km": 1500,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Optima EX2015 Kia",
-      "vin": "KNAGN4A79F5611107",
-      "stock": "6T3835A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/d1d30891ffc2.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/kia/optima/2015-kia-optima-id38804546",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/kia/optima/2015-kia-optima-id38804546?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:09:38",
-      "price": 12115.0,
-      "price_currency": "CAD",
-      "odometer_km": 64859,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -5088,19 +4916,6 @@
       "province": "BC"
     },
     {
-      "name": "Huracan RWD2018 Lamborghini",
-      "vin": "ZHWCC2ZF4JLA10676",
-      "stock": "MB11815",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/e6bc32662c74.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/lamborghini/huracan/2018-lamborghini-huracan-id39229115",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/lamborghini/huracan/2018-lamborghini-huracan-id39229115?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:10:36",
-      "odometer_km": 45337,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Defender HSE- Local, 1 owner2020",
       "vin": "SALE97EU0L2031136",
       "stock": "LR26313",
@@ -5122,6 +4937,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id38234135?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:11:09",
       "odometer_km": 62776,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Defender 90 P400 75th Anniversary (2)2023",
+      "vin": "SALEW6EU7P2172410",
+      "stock": "JL12B07",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/5789836db5d4.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id38425961",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id38425961?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:29:55",
+      "odometer_km": 64905,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -5187,19 +5015,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39274864?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:12:24",
       "odometer_km": 34330,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Defender 110 P300 S (2)2023",
-      "vin": "SALEJ7EX0P2243624",
-      "stock": "JL12B08",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/9be6c0564231.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39297735",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39297735?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:12:38",
-      "odometer_km": 28990,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -5451,20 +5266,6 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Land Rover Vancouver",
-      "vin": "SALEWFFE9S2392051",
-      "stock": "L26235A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/01992fc9657f.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/new-range-rover/2024-land-rover-new-range-rover-id38699157",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/new-range-rover/2024-land-rover-new-range-rover-id38699157?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:45:33",
-      "price": 123919.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "New Range Rover P400 SE SWB2024",
       "vin": "SALKP9FUXRA215341",
       "stock": "LR26130",
@@ -5564,21 +5365,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-sport-plug-in-hybrid/2025-land-rover-range-rover-sport-plug-in-hybrid-id38907688?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:17:33",
       "odometer_km": 1000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Range Rover Sport GT Limited Ed.2011",
-      "vin": "SALSF2D49BA282600",
-      "stock": "L26689A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/d581043c4b3b.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-sport/2011-land-rover-range-rover-sport-id39267894",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-sport/2011-land-rover-range-rover-sport-id39267894?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:17:49",
-      "price": 18798.0,
-      "price_currency": "CAD",
-      "odometer_km": 77121,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -5882,19 +5668,6 @@
       "province": "BC"
     },
     {
-      "name": "Range Rover Sport P400 Dynamic SE2025",
-      "vin": "SAL1L9FU5SA449299",
-      "stock": "JL12B08",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/22c8d7722f37.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-sport/2025-land-rover-range-rover-sport-id39178041",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-sport/2025-land-rover-range-rover-sport-id39178041?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:47:28",
-      "odometer_km": 12000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Range Rover Sport P400 Dynamic HSE2025",
       "vin": "SAL1M9FUXSA438280",
       "stock": "L26646A",
@@ -5999,18 +5772,6 @@
       "province": "BC"
     },
     {
-      "name": "Range Rover Velar S - Local 1 owner2023",
-      "vin": "SALYJ2EX4PA352237",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/35841e2630f9.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-velar/2023-land-rover-range-rover-velar-id39313368",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-velar/2023-land-rover-range-rover-velar-id39313368?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:26:01",
-      "odometer_km": 40291,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Range Rover Velar P250 Dynamic SE2024",
       "vin": "SALYL2EX1RA375052",
       "stock": "N113481",
@@ -6045,20 +5806,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-velar/2026-land-rover-range-rover-velar-id37975833?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:26:48",
       "odometer_km": 5348,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Pre-Owned Inventoryat Land Rover Vancouver",
-      "vin": "SALEWFFE9S2392051",
-      "stock": "L26235A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/1d641665f4ca.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-velar/2026-land-rover-range-rover-velar-id37975838",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover-velar/2026-land-rover-range-rover-velar-id37975838?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:46:54",
-      "price": 123919.0,
-      "price_currency": "CAD",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6131,19 +5878,6 @@
       "province": "BC"
     },
     {
-      "name": "Range Rover V8 Autobiography Supercharged LWB2018",
-      "vin": "SALGV5RE0JA507268",
-      "stock": "MB72D00",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/76118e9ed18e.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover/2018-land-rover-range-rover-id38462868",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover/2018-land-rover-range-rover-id38462868?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:28:08",
-      "odometer_km": 100580,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Range Rover V8 Supercharged SWB2019",
       "vin": "SALGS2RE0KA558617",
       "stock": "L26468B",
@@ -6152,19 +5886,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover/2019-land-rover-range-rover-id39281906?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:28:24",
       "odometer_km": 70362,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Range Rover 3.0L Td6 Diesel HSE SWB2020",
-      "vin": "SALGS2RK6LA597025",
-      "stock": "JL26B00",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/1cc8cc537725.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover/2020-land-rover-range-rover-id38164759",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/land-rover/range-rover/2020-land-rover-range-rover-id38164759?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:28:42",
-      "odometer_km": 122583,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6274,6 +5995,19 @@
       "province": "BC"
     },
     {
+      "name": "GX 4602019 Lexus",
+      "vin": "JTJJM7FX5K5229685",
+      "stock": "G12A004",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/49b7ebeb51e3.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/gx/2019-lexus-gx-id39368219",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/gx/2019-lexus-gx-id39368219?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:30:09",
+      "odometer_km": 68415,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GX 550 4WD w/Overtrail Package2024 Lexus",
       "vin": "JTJTBCDX1R5002708",
       "stock": "A22C002",
@@ -6282,19 +6016,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/gx/2024-lexus-gx-id38746824?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:30:33",
       "odometer_km": 37646,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GX 5502025 Lexus",
-      "vin": "JTJTBCDX3S5047123",
-      "stock": "JL12B08",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/15969fc0f23d.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/gx/2025-lexus-gx-id38974239",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/gx/2025-lexus-gx-id38974239?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:30:49",
-      "odometer_km": 16981,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6321,6 +6042,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/ls/2018-lexus-ls-id39246576?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:14:44",
       "odometer_km": 79002,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "LX 6002024 Lexus",
+      "vin": "JTJAB7CX6R4039842",
+      "stock": "MB62A00",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/c9ecb50b8192.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/lx/2024-lexus-lx-id39368058",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/lx/2024-lexus-lx-id39368058?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:30:25",
+      "odometer_km": 39736,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6360,18 +6094,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/nx/2025-lexus-nx-id39177933?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:31:51",
       "odometer_km": 26670,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "NX 350h Premium AWD2026 Lexus",
-      "vin": "2T2GKCEZ6TC070397",
-      "stock": "A215009",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/3e511a35119e.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/nx/2026-lexus-nx-id38746821",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/nx/2026-lexus-nx-id38746821?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:32:07",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6422,19 +6144,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/rx/2018-lexus-rx-id39246540?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:32:52",
       "odometer_km": 23101,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "RX 350L 8A2019 Lexus",
-      "vin": "JTJDZKCA9K2017942",
-      "stock": "MB32B00",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/0ce5d49fb273.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/rx/2019-lexus-rx-id38508805",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/rx/2019-lexus-rx-id38508805?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:33:07",
-      "odometer_km": 89892,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6505,19 +6214,6 @@
       "province": "BC"
     },
     {
-      "name": "RXh RX 450h AWD2022 Lexus",
-      "vin": "2T2HGMDA7NC075781",
-      "stock": "H32F000",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/6f2746cdd86f.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/rxh/2022-lexus-rxh-id39228866",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/rxh/2022-lexus-rxh-id39228866?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:33:54",
-      "odometer_km": 84244,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "TX 350 AWD w/Ultra Luxury Package2024 Lexus",
       "vin": "5TDAAAB65RS018934",
       "stock": "A215011",
@@ -6539,6 +6235,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/uxh/2022-lexus-uxh-id39254522?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:16:06",
       "odometer_km": 55152,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "UXh 250h AWD2024 Lexus",
+      "vin": "JTHL9JBH3R2079157",
+      "stock": "2665063",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/8c8f629fd8af.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/uxh/2024-lexus-uxh-id39368063",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/lexus/uxh/2024-lexus-uxh-id39368063?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:30:40",
+      "odometer_km": 43123,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6695,19 +6404,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mazda/mazda3-sport/2016-mazda-mazda3-sport-id39349643?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:17:51",
       "odometer_km": 167280,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "3 Sport 50th Anniversary Edition2018 Mazda",
-      "vin": "JM1BN1L71J1183395",
-      "stock": "A215010",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/d2dfe6f6a747.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mazda/mazda3-sport/2018-mazda-mazda3-sport-id39274742",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mazda/mazda3-sport/2018-mazda-mazda3-sport-id39274742?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:35:46",
-      "odometer_km": 89690,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6886,14 +6582,14 @@
       "province": "BC"
     },
     {
-      "name": "C-Class C 3002022 Mercedes-Benz",
-      "vin": "W1KAF4HB4NR056791",
-      "stock": "G26068A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/7ad1d59365c9.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/c-class/2022-mercedes-benz-c-class-id39289723",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/c-class/2022-mercedes-benz-c-class-id39289723?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:37:46",
-      "odometer_km": 38793,
+      "name": "B250 4MATIC Sports Tourer2016 Mercedes-Benz",
+      "vin": "WDDMH4GB7GJ409454",
+      "stock": "MB71303",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/94598e0b4ff2.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/b250/2016-mercedes-benz-b250-id39375259",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/b250/2016-mercedes-benz-b250-id39375259?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:30:55",
+      "odometer_km": 57819,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6946,19 +6642,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/c300/2018-mercedes-benz-c300-id38922009?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:38:16",
       "odometer_km": 110546,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "C300 4MATIC Sedan2018 Mercedes-Benz",
-      "vin": "55SWF4KB1JU265140",
-      "stock": "MB61716",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/914364e09baf.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/c300/2018-mercedes-benz-c300-id39052645",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/c300/2018-mercedes-benz-c300-id39052645?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:38:31",
-      "odometer_km": 93500,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7068,19 +6751,6 @@
       "province": "BC"
     },
     {
-      "name": "C300 4MATIC Sedan2022 Mercedes-Benz",
-      "vin": "W1KAF4HB1NR034666",
-      "stock": "2652440",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/0a1f166db7fd.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/c300/2022-mercedes-benz-c300-id39049407",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/c300/2022-mercedes-benz-c300-id39049407?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:39:31",
-      "odometer_km": 30944,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "C43 AMG 4MATIC Sedan2018 Mercedes-Benz",
       "vin": "55SWF6EBXJU272952",
       "stock": "2766027",
@@ -7172,19 +6842,6 @@
       "province": "BC"
     },
     {
-      "name": "C450 AMG 4MATIC Sedan2016 Mercedes-Benz",
-      "vin": "55SWF6EB2GU156783",
-      "stock": "2652583",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/cf1915d33831.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/c450-amg/2016-mercedes-benz-c450-amg-id39340899",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/c450-amg/2016-mercedes-benz-c450-amg-id39340899?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:22:24",
-      "odometer_km": 224058,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "C63 S AMG Coupe Premium Package2020 Mercedes-Benz",
       "vin": "W1KWJ8HB5LG003201",
       "stock": "S12C001",
@@ -7211,14 +6868,16 @@
       "province": "BC"
     },
     {
-      "name": "CLA250 4MATIC Coupe - local, no accidents, great price2025 Mercedes-Benz",
-      "vin": "W1K5J4HB8SN536190",
-      "stock": "JL26B00",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/3168b30e1a7c.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/cla250/2025-mercedes-benz-cla250-id37670672",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/cla250/2025-mercedes-benz-cla250-id37670672?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:41:21",
-      "odometer_km": 36771,
+      "name": "CLA250 4MATIC Coupe2015 Mercedes-Benz",
+      "vin": "WDDSJ4GBXFN219327",
+      "stock": "2665540",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/b76c6f58e9f8.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/cla250/2015-mercedes-benz-cla250-id39375266",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/cla250/2015-mercedes-benz-cla250-id39375266?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:31:09",
+      "price": 15995.0,
+      "price_currency": "CAD",
+      "odometer_km": 119723,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7284,19 +6943,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/cla250/2025-mercedes-benz-cla250-id39314710?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:22:54",
       "odometer_km": 41526,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "CLA250 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1K5J4HB9TN573993",
-      "stock": "MB32B00",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/0bdb01c0def1.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042795",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042795?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:42:23",
-      "odometer_km": 37410,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7410,14 +7056,14 @@
       "province": "BC"
     },
     {
-      "name": "E-Class E53 AMG 4MATIC Wagon w/Premium Package2020 Mercedes-Benz",
-      "vin": "WDDZH6BB4LA720147",
-      "stock": "A22C002",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/10ee09ad1f7a.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/e-class/2020-mercedes-benz-e-class-id38699026",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/e-class/2020-mercedes-benz-e-class-id38699026?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:43:39",
-      "odometer_km": 86916,
+      "name": "CLS53 4MATIC+ Coupe2022 Mercedes-Benz",
+      "vin": "W1K2J6BBXNA106213",
+      "stock": "MB31306",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/6c36ad19267d.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/cls53/2022-mercedes-benz-cls53-id39375316",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/cls53/2022-mercedes-benz-cls53-id39375316?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:31:25",
+      "odometer_km": 55683,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7431,19 +7077,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/e350/2020-mercedes-benz-e350-id39246577?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:23:58",
       "odometer_km": 134700,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "E350 4MATIC Sedan2021 Mercedes-Benz",
-      "vin": "W1KZF8EB3MA962345",
-      "stock": "2652660",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/0dc68e914d34.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/e350/2021-mercedes-benz-e350-id38656876",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/e350/2021-mercedes-benz-e350-id38656876?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:43:55",
-      "odometer_km": 76500,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7496,19 +7129,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/e43-amg/2018-mercedes-benz-e43-amg-id39184666?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:44:25",
       "odometer_km": 105934,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "E450 4MATIC Sedan2022 Mercedes-Benz",
-      "vin": "W1KZF5KB8NB084376",
-      "stock": "MB51701",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/bde6df6816e5.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/e450/2022-mercedes-benz-e450-id38147939",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/e450/2022-mercedes-benz-e450-id38147939?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:24:44",
-      "odometer_km": 68108,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7657,6 +7277,19 @@
       "province": "BC"
     },
     {
+      "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "W1N9M0KB7SN140863",
+      "stock": "MB51701",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/94cde87c4894.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/eqb300/2025-mercedes-benz-eqb300-id39290016",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/eqb300/2025-mercedes-benz-eqb300-id39290016?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:31:39",
+      "odometer_km": 13648,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "EQB350 4MATIC SUV2023 Mercedes-Benz",
       "vin": "W1N9M1DB5PN032770",
       "stock": "MB61716",
@@ -7763,11 +7396,11 @@
     {
       "name": "G550 SUV2022 Mercedes-Benz",
       "vin": "W1NYC6BJ2NX443261",
-      "stock": "MB51600",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/cb716994983c.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/g550/2022-mercedes-benz-g550-id38155594",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/g550/2022-mercedes-benz-g550-id38155594?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:27:50",
+      "stock": "MB11816",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/0487830c3d62.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/g550/2022-mercedes-benz-g550-id39368111",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/g550/2022-mercedes-benz-g550-id39368111?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:31:55",
       "odometer_km": 75985,
       "condition": "used",
       "city": "Vancouver",
@@ -7797,19 +7430,6 @@
       "price": 61998.0,
       "price_currency": "CAD",
       "odometer_km": 147000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "G63 AMG SUV2019 Mercedes-Benz",
-      "vin": "WDCYC7HJ1KX321517",
-      "stock": "2664729",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/91213f29e298.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2019-mercedes-benz-g63-amg-id39109210",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2019-mercedes-benz-g63-amg-id39109210?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:46:42",
-      "odometer_km": 99000,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7855,19 +7475,6 @@
     },
     {
       "name": "G63 AMG SUV2021 Mercedes-Benz",
-      "vin": "W1NYC7HJ2MX370291",
-      "stock": "JL12B08",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/f3b707ff875f.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2021-mercedes-benz-g63-amg-id39042750",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2021-mercedes-benz-g63-amg-id39042750?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:47:11",
-      "odometer_km": 59953,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "G63 AMG SUV2021 Mercedes-Benz",
       "vin": "W1NYC7HJ0MX368216",
       "stock": "6T4038A",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/ffd938e6a50e.html",
@@ -7875,6 +7482,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2021-mercedes-benz-g63-amg-id39309145?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:29:05",
       "odometer_km": 54669,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "G63 AMG SUV2024 Mercedes-Benz",
+      "vin": "W1NYC7HJ2RX498652",
+      "stock": "2764725",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/e81ec83b8411.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2024-mercedes-benz-g63-amg-id39229075",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2024-mercedes-benz-g63-amg-id39229075?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:32:10",
+      "odometer_km": 20284,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7888,19 +7508,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2025-mercedes-benz-g63-amg-id39116920?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:47:27",
       "odometer_km": 12173,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "G63 AMG SUV2026 Mercedes-Benz",
-      "vin": "W1NWH5AB8TX065070",
-      "stock": "MB12B00",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/12208d97ef76.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2026-mercedes-benz-g63-amg-id39056163",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/g63-amg/2026-mercedes-benz-g63-amg-id39056163?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:47:42",
-      "odometer_km": 5076,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7988,6 +7595,19 @@
       "province": "BC"
     },
     {
+      "name": "GLA250 4MATIC SUV2023 Mercedes-Benz",
+      "vin": "W1N4N4HB5PJ510972",
+      "stock": "MB71303",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/0067555ac85f.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gla250/2023-mercedes-benz-gla250-id39368013",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gla250/2023-mercedes-benz-gla250-id39368013?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:32:24",
+      "odometer_km": 18915,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLA250 4MATIC SUV2025 Mercedes-Benz",
       "vin": "W1N4N4HBXSJ676476",
       "stock": "S116009",
@@ -8048,6 +7668,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gla250/2026-mercedes-benz-gla250-id39013051?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:50:26",
       "odometer_km": 29555,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLA45 AMG 4MATIC+ SUV2022 Mercedes-Benz",
+      "vin": "W1N4N5DB2NJ375457",
+      "stock": "MB51701",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/cf9c2ad8f21e.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gla45-amg/2022-mercedes-benz-gla45-amg-id39368014",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gla45-amg/2022-mercedes-benz-gla45-amg-id39368014?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:32:38",
+      "odometer_km": 54588,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8327,19 +7960,6 @@
     },
     {
       "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
-      "vin": "W1N0G8EB1NV394163",
-      "stock": "2665542",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/2d99f441727e.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39261130",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39261130?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:52:56",
-      "odometer_km": 22619,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
       "vin": "W1N0G8EB3NV377820",
       "stock": "6M0889A",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/3e7c628818d8.html",
@@ -8404,6 +8024,19 @@
       "province": "BC"
     },
     {
+      "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N0G8EB2NV368123",
+      "stock": "MB61716",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/778d27dd4e79.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39375296",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39375296?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:32:53",
+      "odometer_km": 30927,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLC300 4MATIC SUV2023 Mercedes-Benz",
       "vin": "W1NKM4HB7PF040179",
       "stock": "6T8452A",
@@ -8451,6 +8084,32 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39314821?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:54:11",
       "odometer_km": 53837,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2023 Mercedes-Benz",
+      "vin": "W1NKM4HB8PF035900",
+      "stock": "2665504",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/1a2e7137155c.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39375293",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39375293?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:33:08",
+      "odometer_km": 33339,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC Coupe2023 Mercedes-Benz",
+      "vin": "W1N0J8EB8PG128678",
+      "stock": "2652109",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/dec630effc86.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39375295",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39375295?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:33:24",
+      "odometer_km": 45844,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8587,19 +8246,6 @@
     },
     {
       "name": "GLC350e 4MATIC SUV2025 Mercedes-Benz",
-      "vin": "W1NKM5GB2SF337778",
-      "stock": "MB71703",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/2abf44688c37.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/glc350e/2025-mercedes-benz-glc350e-id39246579",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/glc350e/2025-mercedes-benz-glc350e-id39246579?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:55:56",
-      "odometer_km": 15500,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLC350e 4MATIC SUV2025 Mercedes-Benz",
       "vin": "W1NKM5GB9SF419815",
       "stock": "2652223",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/a27beaa1a380.html",
@@ -8690,6 +8336,18 @@
       "province": "BC"
     },
     {
+      "name": "GLC63 AMG S E Performance 4MATIC+ SUV2026 Mercedes-Benz",
+      "vin": "W1NKM8AB7TF516362",
+      "stock": "MB71303",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/7529ef34b153.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/glc63-amg/2026-mercedes-benz-glc63-amg-id39368006",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/glc63-amg/2026-mercedes-benz-glc63-amg-id39368006?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:33:38",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLE350 4MATIC SUV2020 Mercedes-Benz",
       "vin": "4JGFB4KB8LA083228",
       "stock": "MB51701",
@@ -8703,19 +8361,6 @@
       "province": "BC"
     },
     {
-      "name": "GLE350 4MATIC SUV2020 Mercedes-Benz",
-      "vin": "4JGFB4KB7LA040421",
-      "stock": "6T3199A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/dc5e14f577f3.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle350/2020-mercedes-benz-gle350-id39158248",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle350/2020-mercedes-benz-gle350-id39158248?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:56:59",
-      "odometer_km": 75041,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "GLE350 4MATIC SUV2021 Mercedes-Benz",
       "vin": "4JGFB4KB2MA475087",
       "stock": "MB11815",
@@ -8724,19 +8369,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle350/2021-mercedes-benz-gle350-id39281985?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:57:13",
       "odometer_km": 60852,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE350 4MATIC SUV2022 Mercedes-Benz",
-      "vin": "4JGFB4KB3NA810245",
-      "stock": "2652557",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/fb30bfef17db.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39140526",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39140526?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:57:28",
-      "odometer_km": 67984,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8899,19 +8531,6 @@
     },
     {
       "name": "GLE350d 4MATIC2016 Mercedes-Benz",
-      "vin": "4JGDA2EB0GA793322",
-      "stock": "H316035",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/a5e7f5e0cbf0.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle350d/2016-mercedes-benz-gle350d-id39102903",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle350d/2016-mercedes-benz-gle350d-id39102903?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:00:16",
-      "odometer_km": 74913,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE350d 4MATIC2016 Mercedes-Benz",
       "vin": "4JGDA2EB5GA808588",
       "stock": "2652135",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/1124128595e5.html",
@@ -8964,13 +8583,13 @@
     },
     {
       "name": "GLE43 AMG 4MATIC SUV2018 Mercedes-Benz",
-      "vin": "4JGDA6EB3JB115480",
-      "stock": "6T7921A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/2c7ec91f93ce.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id38706927",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id38706927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:01:04",
-      "odometer_km": 74164,
+      "vin": "4JGDA6EB9JB042499",
+      "stock": "2651959",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/c1dab29b9630.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id39368015",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id39368015?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:33:54",
+      "odometer_km": 81500,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9042,6 +8661,19 @@
     },
     {
       "name": "GLE450 4MATIC SUV2023 Mercedes-Benz",
+      "vin": "4JGFB5KB7PA954695",
+      "stock": "2652922",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/3d6f5f92a240.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle450/2023-mercedes-benz-gle450-id39229078",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle450/2023-mercedes-benz-gle450-id39229078?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:34:09",
+      "odometer_km": 36474,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLE450 4MATIC SUV2023 Mercedes-Benz",
       "vin": "4JGFB5KB8PA963860",
       "stock": "MB31305",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/52e08474f17a.html",
@@ -9075,45 +8707,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle450/2023-mercedes-benz-gle450-id39281966?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T14:03:05",
       "odometer_km": 71694,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE450 4MATIC SUV - Local, 1 owner, no major accidents2024 Mercedes-Benz",
-      "vin": "4JGFB5KB2RB261563",
-      "stock": "LR26225",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/6a1e36cd67c1.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id38359007",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id38359007?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:03:22",
-      "odometer_km": 41410,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGFB5KB2RB057166",
-      "stock": "MB61716",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/79229ddaa6ae.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39026462",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39026462?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:03:38",
-      "odometer_km": 55722,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGFB5KBXRB136648",
-      "stock": "2665694",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/988d06fb4d99.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39102280",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39102280?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:03:53",
-      "odometer_km": 18408,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9158,6 +8751,19 @@
       "province": "BC"
     },
     {
+      "name": "GLE450 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "4JGFB5KB1SB332922",
+      "stock": "MB61716",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/6ad3fa3c1157.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle450/2025-mercedes-benz-gle450-id39375294",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle450/2025-mercedes-benz-gle450-id39375294?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:34:23",
+      "odometer_km": 13481,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLE450 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB5KB6TB532471",
       "stock": "MB61716",
@@ -9179,19 +8785,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle450e/2024-mercedes-benz-gle450e-id39131960?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T14:04:37",
       "odometer_km": 64222,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE450e 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4GB2TB527576",
-      "stock": "2652925",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/2d4246a2d665.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle450e/2026-mercedes-benz-gle450e-id38999926",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gle450e/2026-mercedes-benz-gle450e-id38999926?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:04:52",
-      "odometer_km": 2400,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9366,6 +8959,19 @@
       "province": "BC"
     },
     {
+      "name": "GLS450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFF5KE4TB506997",
+      "stock": "MB72E00",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/69b8cb54e13e.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gls450/2026-mercedes-benz-gls450-id38664501",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/gls450/2026-mercedes-benz-gls450-id38664501?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:34:58",
+      "odometer_km": 19050,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLS63 AMG 4MATIC+ SUV2021 Mercedes-Benz",
       "vin": "4JGFF8KE6MA281961",
       "stock": "2665192",
@@ -9415,34 +9021,6 @@
       "price": 13995.0,
       "price_currency": "CAD",
       "odometer_km": 95732,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "ML400 4MATIC2015 Mercedes-Benz",
-      "vin": "4JGDA5GB9FA480508",
-      "stock": "6B0630A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/b3de4898fc3c.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/ml400/2015-mercedes-benz-ml400-id39108570",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/ml400/2015-mercedes-benz-ml400-id39108570?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:07:14",
-      "price": 14448.0,
-      "price_currency": "CAD",
-      "odometer_km": 193062,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "S450 4MATIC Sedan2020 Mercedes-Benz",
-      "vin": "WDDUF6EB7LA519953",
-      "stock": "MB71602",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/6eb17710c712.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/s450/2020-mercedes-benz-s450-id39274821",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/s450/2020-mercedes-benz-s450-id39274821?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:07:33",
-      "odometer_km": 38000,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9554,45 +9132,6 @@
       "province": "BC"
     },
     {
-      "name": "Sprinter 2500 Cargo 1442021 Mercedes-Benz",
-      "vin": "W1Y4DBHY5MP346873",
-      "stock": "MB31705",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/eddab7754f97.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/sprinter-2500-cargo-144/2021-mercedes-benz-sprinter-2500-cargo-144-id39340948",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/sprinter-2500-cargo-144/2021-mercedes-benz-sprinter-2500-cargo-144-id39340948?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:41:07",
-      "odometer_km": 66495,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Sprinter 2500 Crew Van 1702021 Mercedes-Benz",
-      "vin": "W1W4DCHY1MP348716",
-      "stock": "MB31705",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/3909fd58ba3d.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/sprinter-2500-crew-van-170/2021-mercedes-benz-sprinter-2500-crew-van-170-id39164110",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/sprinter-2500-crew-van-170/2021-mercedes-benz-sprinter-2500-crew-van-170-id39164110?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:41:22",
-      "odometer_km": 83929,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 1442024 Mercedes-Benz",
-      "vin": "W1Y4KBHY3RP612744",
-      "stock": "2665870",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/8efc93ff7bf5.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39254556",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39254556?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:08:35",
-      "odometer_km": 85789,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 1442024 Mercedes-Benz",
       "vin": "W1Y4KBHY4RP673603",
       "stock": "2665900",
@@ -9619,6 +9158,19 @@
       "province": "BC"
     },
     {
+      "name": "Sprinter Cargo Van 2500 High Roof I4 Diesel 170 (C)2024 Mercedes-Benz",
+      "vin": "W1Y4KCHY1RP656571",
+      "stock": "LBO6565",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/a74b0fd1ee27.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39368068",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39368068?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:35:12",
+      "odometer_km": 74709,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Sprinter Gas 2500 Cargo 1702022 Mercedes-Benz",
       "vin": "W1Y40CHY7NT105181",
       "stock": "25V6365",
@@ -9627,19 +9179,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/sprinter-gas-2500-cargo/2022-mercedes-benz-sprinter-gas-2500-cargo-id39056130?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:42:07",
       "odometer_km": 152000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Sprinter Gas 2500 Cargo 1702022 Mercedes-Benz",
-      "vin": "W1Y40CHY8NT095261",
-      "stock": "MB31305",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/dd60c9e09dfa.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/sprinter-gas-2500-cargo/2022-mercedes-benz-sprinter-gas-2500-cargo-id39061224",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mercedes-benz/sprinter-gas-2500-cargo/2022-mercedes-benz-sprinter-gas-2500-cargo-id39061224?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:08:51",
-      "odometer_km": 72423,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9666,19 +9205,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mini/cooper-convertible/2022-mini-cooper-convertible-id39326950?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:42:22",
       "odometer_km": 43033,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Countryman Cooper S ALL42026 MINI",
-      "vin": "WMZ23GA05T7U29850",
-      "stock": "H315037",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/c74cf81fdfd1.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/mini/countryman/2026-mini-countryman-id39042627",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/mini/countryman/2026-mini-countryman-id39042627?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:09:22",
-      "odometer_km": 25722,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9801,18 +9327,6 @@
       "province": "BC"
     },
     {
-      "name": "ARIYA EVOLVE+ e-4ORCE AWD2024 Nissan",
-      "vin": "JN1DF0BB3RM740097",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/a2a71228c1e9.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39346652",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39346652?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:43:29",
-      "odometer_km": 41174,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Frontier King Cab 4x4 S2022 Nissan",
       "vin": "1N6ED1CM1NN613105",
       "stock": "27041A",
@@ -9826,6 +9340,19 @@
       "province": "BC"
     },
     {
+      "name": "Frontier Crew Cab PRO-4X 4x4 at2023 Nissan",
+      "vin": "1N6ED1EK7PN612832",
+      "stock": "N214036",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/d22ff6c4a879.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/frontier/2023-nissan-frontier-id39375292",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/frontier/2023-nissan-frontier-id39375292?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:35:26",
+      "odometer_km": 69014,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Juke SV AWD CVT2017 Nissan",
       "vin": "JN8AF5MVXHT752633",
       "stock": "H261228",
@@ -9834,6 +9361,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/juke/2017-nissan-juke-id39163882?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:43:58",
       "odometer_km": 98056,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Kicks SR2019 Nissan",
+      "vin": "3N1CP5CU5KL496457",
+      "stock": "A22E003",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/329800b511dd.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/kicks/2019-nissan-kicks-id39354823",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/kicks/2019-nissan-kicks-id39354823?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:35:40",
+      "odometer_km": 58891,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9891,19 +9431,6 @@
       "province": "BC"
     },
     {
-      "name": "Kicks S FWD2024 Nissan",
-      "vin": "3N1CP5BV8RL555926",
-      "stock": "N212035",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/3c55268379be.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39260690",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39260690?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:11:27",
-      "odometer_km": 18830,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "LEAF S2019 Nissan",
       "vin": "1N4AZ1CP9KC300376",
       "stock": "26356A",
@@ -9944,19 +9471,6 @@
     },
     {
       "name": "Leaf Plus SL2023 Nissan",
-      "vin": "1N4CZ1DV5PC556429",
-      "stock": "N226104",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/9cde17ff18b5.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39228362",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39228362?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:12:00",
-      "odometer_km": 16296,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Leaf Plus SL2023 Nissan",
       "vin": "1N4CZ1DVXPC562730",
       "stock": "N226102",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/c41a87c2f854.html",
@@ -9977,19 +9491,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/murano/2017-nissan-murano-id39290370?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:45:40",
       "odometer_km": 135259,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Murano SL AWD CVT2019 Nissan",
-      "vin": "5N1AZ2MS3KN116070",
-      "stock": "25230A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/7f070417ce18.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/murano/2019-nissan-murano-id38604589",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/murano/2019-nissan-murano-id38604589?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:12:29",
-      "odometer_km": 121340,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10206,14 +9707,14 @@
       "province": "BC"
     },
     {
-      "name": "Rogue Platinum CVT2021 Nissan",
-      "vin": "JN8AT3DDXMW315731",
-      "stock": "26447A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/e0cece425cef.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/rogue/2021-nissan-rogue-id39192210",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/rogue/2021-nissan-rogue-id39192210?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:15:29",
-      "odometer_km": 36287,
+      "name": "Rogue Platinum CVT (2)2021 Nissan",
+      "vin": "JN8AT3DD9MW312853",
+      "stock": "26H991A",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/7dcf571ca49d.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/rogue/2021-nissan-rogue-id38974158",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/rogue/2021-nissan-rogue-id38974158?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:35:55",
+      "odometer_km": 175600,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10227,19 +9728,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/rogue/2022-nissan-rogue-id38356952?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T14:15:46",
       "odometer_km": 132597,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Rogue SV AWD CVT2022 Nissan",
-      "vin": "JN8BT3BB5NW336316",
-      "stock": "N214035",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/724ec952d26d.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/rogue/2022-nissan-rogue-id39264187",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/rogue/2022-nissan-rogue-id39264187?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:16:01",
-      "odometer_km": 63590,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10414,19 +9902,6 @@
       "province": "BC"
     },
     {
-      "name": "Sentra SV CVT2024 Nissan",
-      "vin": "3N1AB8CV5RY346877",
-      "stock": "N212034",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/6984e4feeda4.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39260688",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39260688?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:49:01",
-      "odometer_km": 58343,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Sentra SR CVT2025 Nissan",
       "vin": "3N1AB8DV8SY297114",
       "stock": "H126185",
@@ -10513,6 +9988,21 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/polestar/polestar-1/2021-polestar-polestar-1-id38508770?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T14:18:20",
       "odometer_km": 8134,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "911 Carrera 4 Turbo Coupe2003 Porsche",
+      "vin": "WP0AB29963S686338",
+      "stock": "2652737",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/40f1e38382ae.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/porsche/911/2003-porsche-911-id39368061",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/porsche/911/2003-porsche-911-id39368061?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:36:09",
+      "price": 110188.0,
+      "price_currency": "CAD",
+      "odometer_km": 124632,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10635,19 +10125,6 @@
       "province": "BC"
     },
     {
-      "name": "Macan MACAN2018 Porsche",
-      "vin": "WP1AA2A55JLB04778",
-      "stock": "G27016A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/62df33114510.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/porsche/macan/2018-porsche-macan-id39289725",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/porsche/macan/2018-porsche-macan-id39289725?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:20:28",
-      "odometer_km": 73253,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Macan2019 Porsche",
       "vin": "WP1AA2A56KLB07027",
       "stock": "LR26195",
@@ -10713,6 +10190,19 @@
       "province": "BC"
     },
     {
+      "name": "Macan S AWD w/Premium Plus Package2025 Porsche",
+      "vin": "WP1AG2A59SLB40232",
+      "stock": "A22F004",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/a6fd3b3f1479.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/porsche/macan/2025-porsche-macan-id39367926",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/porsche/macan/2025-porsche-macan-id39367926?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:36:25",
+      "odometer_km": 35165,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Panamera 42020 Porsche",
       "vin": "WP0AA2A72LL100337",
       "stock": "MB61215",
@@ -10765,32 +10255,6 @@
       "province": "BC"
     },
     {
-      "name": "Taycan 4S2022 Porsche",
-      "vin": "WP0AB2Y13NSA43821",
-      "stock": "A12C016",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/8ed4b4073ac6.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/porsche/taycan/2022-porsche-taycan-id39061087",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/porsche/taycan/2022-porsche-taycan-id39061087?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:22:49",
-      "odometer_km": 17758,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "1500 Classic Warlock2022 Ram",
-      "vin": "1C6RR7LT5NS243589",
-      "stock": "A113013",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/c91c7ab5ae60.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/ram/1500-classic/2022-ram-1500-classic-id39340883",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/ram/1500-classic/2022-ram-1500-classic-id39340883?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:51:54",
-      "odometer_km": 128761,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "1500 Limited2023 Ram",
       "vin": "1C6SRFHT7PN691709",
       "stock": "S12E000",
@@ -10817,14 +10281,14 @@
       "province": "BC"
     },
     {
-      "name": "2500 Big Horn 4x4 Crew Cab 6'4 Box2024 Ram",
-      "vin": "3C6UR5DL0RG408474",
-      "stock": "A12F000",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/65dc3dbae38b.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/ram/2500/2024-ram-2500-id39012746",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/ram/2500/2024-ram-2500-id39012746?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:23:06",
-      "odometer_km": 31792,
+      "name": "1500 Rebel 4x4 Crew Cab 5'7 Box2024 Ram",
+      "vin": "1C6SRFLT1RN114555",
+      "stock": "26B9080",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/42d159f1f60f.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/ram/1500/2024-ram-1500-id39375319",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/ram/1500/2024-ram-1500-id39375319?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:36:42",
+      "odometer_km": 22109,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10843,19 +10307,6 @@
       "province": "BC"
     },
     {
-      "name": "ProMaster Cargo Van Tradesman 2500 High Roof 136 WB w/Pass Seat2025 Ram",
-      "vin": "3C6LRVCG0SE540653",
-      "stock": "MB31505",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/03c4110daac4.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/ram/promaster-cargo-van/2025-ram-promaster-cargo-van-id39171073",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/ram/promaster-cargo-van/2025-ram-promaster-cargo-van-id39171073?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:23:39",
-      "odometer_km": 13154,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "RAM 1500 Classic Crew Cab 4x4 (DS) ST2021 Ram",
       "vin": "3C6RR7KT9MG536225",
       "stock": "A113013",
@@ -10869,6 +10320,19 @@
       "province": "BC"
     },
     {
+      "name": "RAM 1500 Classic Crew Cab 4x4 (DS) SLT (140.5 WB 5'7 Box) SWB2022 Ram",
+      "vin": "1C6RR7LT5NS243589",
+      "stock": "A113013",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/5b6030aa9f1d.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/ram/ram-1500-classic-crew-cab-4x4-(ds)/2022-ram-ram-1500-classic-crew-cab-4x4-(ds)-id39340883",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/ram/ram-1500-classic-crew-cab-4x4-(ds)/2022-ram-ram-1500-classic-crew-cab-4x4-(ds)-id39340883?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:36:57",
+      "odometer_km": 128761,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "RAM 1500 Crew Cab 4x2 (DT) Sport LWB2021 Ram",
       "vin": "1C6SRFVT2MN665129",
       "stock": "A260122",
@@ -10877,6 +10341,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/ram/ram-1500-crew-cab-4x2-(dt)/2021-ram-ram-1500-crew-cab-4x2-(dt)-id39222574?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T14:23:53",
       "odometer_km": 130537,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "RAM 1500 Crew Cab 4x4 (DT) Rebel SWB2022 Ram",
+      "vin": "1C6SRFLT5NN472994",
+      "stock": "LR26143",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/00fd1126f763.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/ram/ram-1500-crew-cab-4x4-(dt)/2022-ram-ram-1500-crew-cab-4x4-(dt)-id39230504",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/ram/ram-1500-crew-cab-4x4-(dt)/2022-ram-ram-1500-crew-cab-4x4-(dt)-id39230504?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:37:11",
+      "odometer_km": 56028,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10975,6 +10452,19 @@
       "province": "BC"
     },
     {
+      "name": "Ascent Premier2023 Subaru",
+      "vin": "4S4WMAWD1P3456883",
+      "stock": "MB52F00",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/22681c0e079f.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/ascent/2023-subaru-ascent-id39332892",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/ascent/2023-subaru-ascent-id39332892?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:37:26",
+      "odometer_km": 14836,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Ascent Onyx2024 Subaru",
       "vin": "4S4WMAHD4R3408066",
       "stock": "S261020",
@@ -10983,6 +10473,32 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/ascent/2024-subaru-ascent-id39207356?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T14:24:51",
       "odometer_km": 48298,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "BRZ Sport-Tech at2016 Subaru",
+      "vin": "JF1ZCAC1XG8602074",
+      "stock": "S113023",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/72cd1970b9af.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/brz/2016-subaru-brz-id39368070",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/brz/2016-subaru-brz-id39368070?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:37:42",
+      "odometer_km": 47148,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Crosstrek Touring Pkg CVT2017 Subaru",
+      "vin": "JF2GPABC4HH261458",
+      "stock": "H126193",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/261a78189f2c.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2017-subaru-crosstrek-id39140076",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2017-subaru-crosstrek-id39140076?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:37:57",
+      "odometer_km": 163800,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11027,19 +10543,6 @@
       "province": "BC"
     },
     {
-      "name": "Crosstrek Limited CVT2024 Subaru",
-      "vin": "JF2GUHNC1RH265188",
-      "stock": "S260772",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/a10047a8da6c.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38620392",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38620392?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:25:06",
-      "odometer_km": 62357,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Crosstrek Wilderness CVT2024 Subaru",
       "vin": "4S4GUHU61R3816013",
       "stock": "S12F000",
@@ -11048,19 +10551,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38706709?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:54:38",
       "odometer_km": 20635,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Limited CVT2024 Subaru",
-      "vin": "JF2GUHNC7RH245284",
-      "stock": "S260872",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/d903296a83d3.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38835051",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38835051?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:25:20",
-      "odometer_km": 40322,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11131,19 +10621,6 @@
       "province": "BC"
     },
     {
-      "name": "Crosstrek Touring CVT2024 Subaru",
-      "vin": "JF2GUADC3RH859001",
-      "stock": "S113022",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/8bdbd89510d7.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39056113",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39056113?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:56:12",
-      "odometer_km": 50830,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Crosstrek Convenience CVT2024 Subaru",
       "vin": "JF2GUABCXR8305070",
       "stock": "S260741",
@@ -11152,6 +10629,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39060568?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:56:27",
       "odometer_km": 10903,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Crosstrek Wilderness CVT2024 Subaru",
+      "vin": "4S4GUHU68R3826263",
+      "stock": "S117006",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/2ac2fbd8def8.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39095764",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39095764?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:38:13",
+      "odometer_km": 36326,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11170,19 +10660,6 @@
       "province": "BC"
     },
     {
-      "name": "Crosstrek Onyx CVT2024 Subaru",
-      "vin": "JF2GUHFC3RH866164",
-      "stock": "S261106",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/984b770b9082.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39098843",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39098843?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:56:57",
-      "odometer_km": 45693,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Crosstrek Touring CVT2024 Subaru",
       "vin": "JF2GUADC6R8270508",
       "stock": "S113022",
@@ -11191,19 +10668,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39101561?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:57:12",
       "odometer_km": 37265,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Touring CVT2024 Subaru",
-      "vin": "JF2GUADC2R8900136",
-      "stock": "S117006",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/e633a3094b94.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39136136",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39136136?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:57:27",
-      "odometer_km": 7210,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11282,19 +10746,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39290067?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:58:32",
       "odometer_km": 23562,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Onyx CVT2025 Subaru",
-      "vin": "JF2GUHFC1S8327418",
-      "stock": "S113023",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/256f69810f47.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2025-subaru-crosstrek-id39222711",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2025-subaru-crosstrek-id39222711?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T13:58:48",
-      "odometer_km": 3848,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11568,19 +11019,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2026-subaru-crosstrek-id39207358?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:03:58",
       "odometer_km": 15175,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Touring CVT2026 Subaru",
-      "vin": "JF2GUHDC7T8233810",
-      "stock": "S115017",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/4a2d9a084a35.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2026-subaru-crosstrek-id39281947",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/crosstrek/2026-subaru-crosstrek-id39281947?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:26:39",
-      "odometer_km": 24785,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12044,32 +11482,6 @@
     },
     {
       "name": "Forester Touring 2.5L CVT2026 Subaru",
-      "vin": "JF2SLDDC3TH462443",
-      "stock": "S115017",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/2c206a371d8e.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39302956",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39302956?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:28:30",
-      "odometer_km": 7645,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Forester Touring 2.5L CVT2026 Subaru",
-      "vin": "JF2SLDDC6TH462078",
-      "stock": "S115017",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/208b0ac9ea43.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39302957",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39302957?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:28:45",
-      "odometer_km": 4229,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Forester Touring 2.5L CVT2026 Subaru",
       "vin": "JF2SLDDC9TH462656",
       "stock": "S115017",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/8c8719d38c08.html",
@@ -12134,19 +11546,6 @@
       "province": "BC"
     },
     {
-      "name": "Impreza RS AWD2024 Subaru",
-      "vin": "JF1GUHJC1R8865204",
-      "stock": "S117006",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/cd5f23aba608.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/impreza/2024-subaru-impreza-id39184699",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/impreza/2024-subaru-impreza-id39184699?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T14:12:05",
-      "odometer_km": 15984,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Impreza Touring CVT2026 Subaru",
       "vin": "JF1GUAFC3T8215328",
       "stock": "S115014",
@@ -12181,19 +11580,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/impreza/2026-subaru-impreza-id39164065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:12:53",
       "odometer_km": 16228,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Legacy GT CVT2024 Subaru",
-      "vin": "4S3BWHH66R3005441",
-      "stock": "S260859",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/567e8a94ca92.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/legacy/2024-subaru-legacy-id38860972",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/legacy/2024-subaru-legacy-id38860972?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:30:02",
-      "odometer_km": 51914,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12396,19 +11782,6 @@
       "province": "BC"
     },
     {
-      "name": "WRX Sport2024 Subaru",
-      "vin": "JF1VBAH64R9812382",
-      "stock": "G116006",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/8bbf7807bc18.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/wrx/2024-subaru-wrx-id39049291",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/subaru/wrx/2024-subaru-wrx-id39049291?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:31:52",
-      "odometer_km": 20176,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "WRX Sport 6MT2024 Subaru",
       "vin": "JF1VBAH69R9812331",
       "stock": "A260213",
@@ -12487,14 +11860,14 @@
       "province": "BC"
     },
     {
-      "name": "Model 3 Long Range AWD2025 Tesla",
-      "vin": "5YJ3E1EB1SF922604",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/d7f89aecb8af.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39228954",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39228954?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:32:52",
-      "odometer_km": 10092,
+      "name": "Model 32022 Tesla",
+      "vin": "5YJ3E1EA6NF344978",
+      "stock": "MB71703",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/2193f67e79a2.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-3/2022-tesla-model-3-id39368009",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-3/2022-tesla-model-3-id39368009?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:38:31",
+      "odometer_km": 27450,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12513,14 +11886,14 @@
       "province": "BC"
     },
     {
-      "name": "Model 3 Performance AWD2025 Tesla",
-      "vin": "5YJ3E1ET0SF950063",
-      "stock": "A22F004",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/5f238e60b209.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39314702",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39314702?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T15:12:19",
-      "odometer_km": 18399,
+      "name": "Model S 100D2017 Tesla",
+      "vin": "5YJSA1E28HF198202",
+      "stock": "L26651A",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/2b5e202ec2f8.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-s/2017-tesla-model-s-id39281910",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-s/2017-tesla-model-s-id39281910?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:38:45",
+      "odometer_km": 116611,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12552,6 +11925,19 @@
       "province": "BC"
     },
     {
+      "name": "Model X Plaid2023 Tesla",
+      "vin": "7SAXCBE63PF373093",
+      "stock": "MB12F01",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/862425c3335c.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-x/2023-tesla-model-x-id39281986",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-x/2023-tesla-model-x-id39281986?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:39:02",
+      "odometer_km": 53000,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Model X2024 Tesla",
       "vin": "7SAXCDE54RF457560",
       "stock": "H22F002",
@@ -12560,6 +11946,32 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-x/2024-tesla-model-x-id39124227?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T14:33:41",
       "odometer_km": 41441,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Model Y Performance2021 Tesla",
+      "vin": "5YJYGDEF4MF202124",
+      "stock": "2664993",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/25927f4fa43c.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-y/2021-tesla-model-y-id39368052",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-y/2021-tesla-model-y-id39368052?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:39:17",
+      "odometer_km": 96250,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Model Y Performance2021 Tesla",
+      "vin": "5YJYGDEF1MF300365",
+      "stock": "A12F000",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/e3cd31e96bf5.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-y/2021-tesla-model-y-id39375247",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/tesla/model-y/2021-tesla-model-y-id39375247?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:39:31",
+      "odometer_km": 47251,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12604,6 +12016,19 @@
       "province": "BC"
     },
     {
+      "name": "4Runner2022 Toyota",
+      "vin": "JTENU5JR0N5992635",
+      "stock": "A12C017",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/11fbef78e8a4.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/4runner/2022-toyota-4runner-id39367990",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/4runner/2022-toyota-4runner-id39367990?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:39:46",
+      "odometer_km": 86277,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "4Runner Limited2025 Toyota",
       "vin": "JTEVA5BR7S5054778",
       "stock": "A12C017",
@@ -12612,45 +12037,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/4runner/2025-toyota-4runner-id39332852?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:17:44",
       "odometer_km": 9757,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Camry Hybrid SE2023 Toyota",
-      "vin": "4T1B21HK8PU019683",
-      "stock": "2550396",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/f2a7b30f8405.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/camry-hybrid/2023-toyota-camry-hybrid-id39274860",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/camry-hybrid/2023-toyota-camry-hybrid-id39274860?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:34:15",
-      "odometer_km": 129601,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Camry 4-Door Sedan LE 8A2020 Toyota",
-      "vin": "4T1G11AK0LU989315",
-      "stock": "2652817",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/94ca17506cf3.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/camry/2020-toyota-camry-id39281927",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/camry/2020-toyota-camry-id39281927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:34:30",
-      "odometer_km": 173690,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Camry SE2024 Toyota",
-      "vin": "4T1G11AK6RU241032",
-      "stock": "H116985",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/dde7ccb118a2.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/camry/2024-toyota-camry-id38860559",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/camry/2024-toyota-camry-id38860559?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:34:44",
-      "odometer_km": 41652,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12788,19 +12174,6 @@
       "province": "BC"
     },
     {
-      "name": "Corolla LE2022 Toyota",
-      "vin": "5YFBPMBE8NP373563",
-      "stock": "H313038",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/1e8cb1dd6296.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/corolla/2022-toyota-corolla-id39223240",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/corolla/2022-toyota-corolla-id39223240?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:35:44",
-      "odometer_km": 73527,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Corolla LE CVT2022 Toyota",
       "vin": "5YFBPMBE2NP277640",
       "stock": "6B4149A",
@@ -12827,32 +12200,6 @@
       "province": "BC"
     },
     {
-      "name": "Crown Limited2023 Toyota",
-      "vin": "JTDAAAAF5P3012731",
-      "stock": "MB61716",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/b55c5a72b2e4.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/crown/2023-toyota-crown-id39281940",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/crown/2023-toyota-crown-id39281940?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:35:59",
-      "odometer_km": 37130,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GR Supra 3.0L2020 Toyota",
-      "vin": "WZ1DB4C07LW023891",
-      "stock": "A12C017",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/20cf95c24ff4.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/gr-supra/2020-toyota-gr-supra-id39289986",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/gr-supra/2020-toyota-gr-supra-id39289986?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T15:12:33",
-      "odometer_km": 15929,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "GR Supra 3.0 Premium2022 Toyota",
       "vin": "WZ1DB0C01NW051259",
       "stock": "S12F000",
@@ -12861,32 +12208,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/gr-supra/2022-toyota-gr-supra-id39108527?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:20:16",
       "odometer_km": 50204,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Highlander Hybrid XLE AWD2023 Toyota",
-      "vin": "5TDABRCH9PS566007",
-      "stock": "H117987",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/41989f3c8bee.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/highlander-hybrid/2023-toyota-highlander-hybrid-id39289814",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/highlander-hybrid/2023-toyota-highlander-hybrid-id39289814?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:36:14",
-      "odometer_km": 50931,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Highlander Hybrid XLE AWD2024 Toyota",
-      "vin": "5TDKBRCH0RS140505",
-      "stock": "MB61216",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/693296d82478.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/highlander-hybrid/2024-toyota-highlander-hybrid-id39281924",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/highlander-hybrid/2024-toyota-highlander-hybrid-id39281924?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:36:29",
-      "odometer_km": 72419,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -13000,19 +12321,6 @@
       "province": "BC"
     },
     {
-      "name": "Prius Prime XSE2024 Toyota",
-      "vin": "JTDACACUXR3030506",
-      "stock": "A215010",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/d2f804a40934.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/prius-prime/2024-toyota-prius-prime-id39116712",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/prius-prime/2024-toyota-prius-prime-id39116712?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:37:29",
-      "odometer_km": 48154,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "RAV4 Plug-in Hybrid GR SPORT AWD2026 Toyota",
       "vin": "JTM7ERAV8TD006396",
       "stock": "A22C003",
@@ -13102,19 +12410,6 @@
       "province": "BC"
     },
     {
-      "name": "Sienna Hybrid Sienna XSE AWD 7-Pass2025 Toyota",
-      "vin": "5TDGSKFC3SS214177",
-      "stock": "H12E000",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/cbe322652c8c.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id38507967",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id38507967?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:39:02",
-      "odometer_km": 19500,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Sienna Hybrid XSE 7-Pass2025 Toyota",
       "vin": "5TDGRKEC2SS264212",
       "stock": "A215010",
@@ -13123,6 +12418,19 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id39200024?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T14:39:17",
       "odometer_km": 25883,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Sienna Hybrid2025 Toyota",
+      "vin": "5TDGSKFC3SS203387",
+      "stock": "2665793",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/fc5894c78d42.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id39281858",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id39281858?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:40:03",
+      "odometer_km": 11267,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -13232,6 +12540,19 @@
       "province": "BC"
     },
     {
+      "name": "Tundra 4X4 Tundra CrewMax Platinum2022 Toyota",
+      "vin": "5TFMA5DB5NX046574",
+      "stock": "A12C016",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/71c58423e7b4.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/tundra-4x4/2022-toyota-tundra-4x4-id39367987",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/tundra-4x4/2022-toyota-tundra-4x4-id39367987?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:40:18",
+      "odometer_km": 97109,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Tundra Hybrid CrewMax Limited2024 Toyota",
       "vin": "5TFWC5EC1RX005617",
       "stock": "MB52F00",
@@ -13245,14 +12566,14 @@
       "province": "BC"
     },
     {
-      "name": "Tundra 4X4 Double Cab Limited TRD Off Road 6.5-ft Bed2024 Toyota",
-      "vin": "5TFJA5DA0RX143875",
-      "stock": "A216019",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/8b4f73703c12.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/tundra/2024-toyota-tundra-id38818036",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/tundra/2024-toyota-tundra-id38818036?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:40:38",
-      "odometer_km": 47339,
+      "name": "Tundra Hybrid CrewMax Limited2025 Toyota",
+      "vin": "5TFWC5DB0SX094465",
+      "stock": "MB72F00",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/4f92ab870fac.html",
+      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/tundra-hybrid/2025-toyota-tundra-hybrid-id39375261",
+      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/toyota/tundra-hybrid/2025-toyota-tundra-hybrid-id39375261?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-17T16:40:34",
+      "odometer_km": 31400,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -13279,19 +12600,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/volkswagen/atlas-cross-sport/2024-volkswagen-atlas-cross-sport-id38853540?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T14:41:07",
       "odometer_km": 9794,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Atlas Highline 3.6L 8sp at w/Tip 4MOTION2018 Volkswagen",
-      "vin": "1V2MR2CA9JC509199",
-      "stock": "H261216",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/2628f2c248d8.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/volkswagen/atlas/2018-volkswagen-atlas-id39116666",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/volkswagen/atlas/2018-volkswagen-atlas-id39116666?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:41:23",
-      "odometer_km": 156521,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -13349,19 +12657,6 @@
       "province": "BC"
     },
     {
-      "name": "GTI Autobahn 7Sp at DSG w/Tip2022 Volkswagen",
-      "vin": "WVWR87CD0NW217799",
-      "stock": "A12C017",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/b2af799b0dcc.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/volkswagen/gti/2022-volkswagen-gti-id39222576",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/volkswagen/gti/2022-volkswagen-gti-id39222576?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:42:11",
-      "odometer_km": 37825,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Jetta Wolfsburg Edition 1.4T 6sp at w/Tip2017 Volkswagen",
       "vin": "3VWDB7AJ3HM376290",
       "stock": "26413A",
@@ -13396,32 +12691,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/volkswagen/jetta/2021-volkswagen-jetta-id39245406?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T14:42:40",
       "odometer_km": 150850,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Jetta Comfortline w/Sport Package2025 Volkswagen",
-      "vin": "3VWSX7BU8SM089987",
-      "stock": "A215010",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/5e876ba14e2d.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/volkswagen/jetta/2025-volkswagen-jetta-id38999832",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/volkswagen/jetta/2025-volkswagen-jetta-id38999832?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:42:57",
-      "odometer_km": 29017,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Taos Comfortline Black Edition2025 Volkswagen",
-      "vin": "3VV2C7B28SM042246",
-      "stock": "G115005",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/bf5508a8e69a.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/volkswagen/taos/2025-volkswagen-taos-id39171150",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/volkswagen/taos/2025-volkswagen-taos-id39171150?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:43:10",
-      "odometer_km": 37364,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -13487,19 +12756,6 @@
       "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/volvo/xc40/2022-volvo-xc40-id39340949?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:24:39",
       "odometer_km": 54216,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "XC60 B5 AWD Momentum2022 Volvo",
-      "vin": "LYVL12RK1NB933314",
-      "stock": "L25579A",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/be25b708530b.html",
-      "source_url": "https://www.landrovervancouver.ca/en/used-inventory/volvo/xc60/2022-volvo-xc60-id39267897",
-      "dealer_url": "https://www.landrovervancouver.ca/en/used-inventory/volvo/xc60/2022-volvo-xc60-id39267897?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T14:44:11",
-      "odometer_km": 36549,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
