@@ -1,7 +1,7 @@
 {
   "dealership": "Mcl Motor Cars 2010 Aston Martin Land Rover Jaguar Bentley Vancouver",
-  "generated_at": "2026-10-21T20:13:18",
-  "vehicle_count": 1188,
+  "generated_at": "2026-10-22T08:12:17",
+  "vehicle_count": 1186,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12885,18 +12885,6 @@
       "province": "BC"
     },
     {
-      "name": "Defender 110 S2026",
-      "vin": "SALEJ7EX6T2669392",
-      "stock": "L26645",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/bdc09860c83f.html",
-      "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id38853413",
-      "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id38853413?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T16:58:27",
-      "condition": "new",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Defender 110 X2026",
       "vin": "SALEX7EU9T2627383",
       "stock": "LR26285",
@@ -13036,18 +13024,6 @@
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id39069083",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id39069083?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-18T20:16:01",
-      "condition": "new",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Defender 110 X-Dynamic SE2026",
-      "vin": "SALE27EU1T2676351",
-      "stock": "L26719",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/ea863935cc83.html",
-      "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id39069085",
-      "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/defender/2026-land-rover-defender-id39069085?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T20:16:17",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13911,7 +13887,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/84513e3b81b4.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150584",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150584?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:40:34",
+      "last_verified": "2026-10-22T08:08:31",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13923,7 +13899,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/27dbf34eb852.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150586",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150586?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:40:51",
+      "last_verified": "2026-10-22T08:08:48",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13935,7 +13911,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/818e5378e896.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150589",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150589?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:41:06",
+      "last_verified": "2026-10-22T08:09:02",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13947,7 +13923,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/59d87a0c15fe.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150595",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150595?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:41:21",
+      "last_verified": "2026-10-22T08:09:16",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13959,7 +13935,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/77c011224779.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150596",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150596?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:41:35",
+      "last_verified": "2026-10-22T08:09:32",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13971,7 +13947,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/a9844df79f2d.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150597",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150597?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:41:51",
+      "last_verified": "2026-10-22T08:09:45",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13983,7 +13959,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/fd7b20daa8c5.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150599",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150599?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:42:07",
+      "last_verified": "2026-10-22T08:09:59",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13995,7 +13971,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/606d6d1caf11.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150600",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39150600?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:42:21",
+      "last_verified": "2026-10-22T08:10:13",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14007,7 +13983,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/3c5f9689e141.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39165817",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport-mild-hybrid/2027-land-rover-range-rover-sport-mild-hybrid-id39165817?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:42:36",
+      "last_verified": "2026-10-22T08:10:28",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14127,7 +14103,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/89e70335ff57.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37726720",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37726720?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:42:51",
+      "last_verified": "2026-10-22T08:10:44",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14151,7 +14127,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/024eb26783c2.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37826010",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37826010?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:43:05",
+      "last_verified": "2026-10-22T08:11:00",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14163,7 +14139,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/d38cdb22c847.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37826016",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37826016?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:43:22",
+      "last_verified": "2026-10-22T08:11:17",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14175,7 +14151,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/559d4ebc3858.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37945393",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37945393?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:43:37",
+      "last_verified": "2026-10-22T08:11:32",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14187,7 +14163,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/9a26cdc33d17.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37945397",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id37945397?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:43:54",
+      "last_verified": "2026-10-22T08:11:47",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14199,7 +14175,7 @@
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/045c6361efd4.html",
       "source_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id38049006",
       "dealer_url": "https://www.landrovervancouver.ca/en/new-inventory/land-rover/range-rover-sport/2026-land-rover-range-rover-sport-id38049006?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:44:10",
+      "last_verified": "2026-10-22T08:12:04",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
