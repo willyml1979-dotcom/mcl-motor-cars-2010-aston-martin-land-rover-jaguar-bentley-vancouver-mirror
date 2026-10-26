@@ -1,7 +1,7 @@
 {
   "dealership": "Mcl Motor Cars 2010 Aston Martin Land Rover Jaguar Bentley Vancouver",
-  "generated_at": "2026-10-26T05:28:02",
-  "vehicle_count": 1173,
+  "generated_at": "2026-10-26T06:27:18",
+  "vehicle_count": 1171,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -226,6 +226,12 @@
       "condition": "used",
       "price": 16005.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "TLX A-Spec2020 Acura",
+      "vin": "19UUB1F66LA800329",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/9b26a0662b2c.html",
+      "condition": "used"
     },
     {
       "name": "TLX SH-AWD Platinum Elite2021 Acura",
@@ -475,12 +481,6 @@
       "name": "SQ7 4.0 TFSI quattro2026 Audi",
       "vin": "WA1AWBF74TD012971",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/dd0ec6fc894e.html",
-      "condition": "used"
-    },
-    {
-      "name": "TT RS 2.5T quattro 7sp S Tronic Coupe2019 Audi",
-      "vin": "WUAASAFV4K1900164",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/6e7ff63cafc9.html",
       "condition": "used"
     },
     {
@@ -2081,12 +2081,6 @@
       "condition": "used"
     },
     {
-      "name": "Seltos SX Turbo AWD w/Black Interior2024 Kia",
-      "vin": "KNDETCA78R7556667",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/bd26d4c650f8.html",
-      "condition": "used"
-    },
-    {
       "name": "Seltos EX Premium AWD2025 Kia",
       "vin": "KNDERCAA8S7673603",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/b3f6aae0d22a.html",
@@ -2386,12 +2380,6 @@
       "name": "Range Rover Sport P400 Dynamic HSE2024",
       "vin": "SAL1M9FU1RA189099",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/c0280c62f261.html",
-      "condition": "used"
-    },
-    {
-      "name": "Range Rover Sport P400 Dynamic SE2024",
-      "vin": "SAL1L9FU5RA401456",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/a990ee9cbd0a.html",
       "condition": "used"
     },
     {
@@ -3560,12 +3548,6 @@
     },
     {
       "name": "GLC300 4MATIC SUV2025 Mercedes-Benz",
-      "vin": "W1NKM4HB5SF268545",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/732267e8906e.html",
-      "condition": "used"
-    },
-    {
-      "name": "GLC300 4MATIC SUV2025 Mercedes-Benz",
       "vin": "W1NKM4HB5SF408786",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/c707c675733a.html",
       "condition": "used"
@@ -4111,6 +4093,12 @@
       "condition": "used"
     },
     {
+      "name": "Outlander Plug-In Hybrid SE S-AWC2025 Mitsubishi",
+      "vin": "JA4T5VA96SZ621678",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/5a34c5814c76.html",
+      "condition": "used"
+    },
+    {
       "name": "Outlander ES S-AWC2023 Mitsubishi",
       "vin": "JA4J4UA85PZ616099",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/6b0f601b6079.html",
@@ -4564,12 +4552,6 @@
       "name": "Macan Electric 4S AWD2025 Porsche",
       "vin": "WP1AB2XA1SL152388",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/2602a0dcafeb.html",
-      "condition": "used"
-    },
-    {
-      "name": "Macan S AWD w/Premium Plus Package2025 Porsche",
-      "vin": "WP1AG2A59SLB40232",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/a6fd3b3f1479.html",
       "condition": "used"
     },
     {
@@ -5418,6 +5400,12 @@
       "name": "Corolla 4-door Sedan LE CVTi-S2019 Toyota",
       "vin": "2T1BURHE0KC155206",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/0cf42af9196c.html",
+      "condition": "used"
+    },
+    {
+      "name": "Corolla 4-door Sedan LE CVT2020 Toyota",
+      "vin": "5YFBPRBE5LP019655",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/d2b91ad75566.html",
       "condition": "used"
     },
     {
