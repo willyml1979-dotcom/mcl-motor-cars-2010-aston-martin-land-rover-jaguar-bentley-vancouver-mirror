@@ -7,7 +7,7 @@ MCL Motor Cars 2010 / Aston Martin / Land Rover / Jaguar / Bentley Vancouver is 
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/ and https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/ (about 1237 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/ and https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/ (about 1224 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/llms.txt
