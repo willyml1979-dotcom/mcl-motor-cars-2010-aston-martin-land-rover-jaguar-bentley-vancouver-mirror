@@ -1,7 +1,7 @@
 {
   "dealership": "Mcl Motor Cars 2010 Aston Martin Land Rover Jaguar Bentley Vancouver",
-  "generated_at": "2026-11-17T06:42:10",
-  "vehicle_count": 1236,
+  "generated_at": "2026-11-17T21:43:21",
+  "vehicle_count": 1237,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6481,6 +6481,12 @@
       "condition": "new"
     },
     {
+      "name": "Defender 110 X2026",
+      "vin": "SALEX7EUXT2672686",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/3753ffd15859.html",
+      "condition": "new"
+    },
+    {
       "name": "Defender 110 X-Dynamic SE2027",
       "vin": "SALE27EUXV2691420",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/f00b661675fe.html",
@@ -7214,12 +7220,6 @@
     },
     {
       "name": "Range Rover Sport S2026",
-      "vin": "SAL1J9EU1TA656085",
-      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/2670c84f252d.html",
-      "condition": "new"
-    },
-    {
-      "name": "Range Rover Sport S2026",
       "vin": "SAL1J9EU8TA652373",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/8b70ccc68b1a.html",
       "condition": "new"
@@ -7456,6 +7456,12 @@
       "name": "Range Rover SE SWB2026",
       "vin": "SALKP9E94TA371752",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/e61b77a2ebbd.html",
+      "condition": "new"
+    },
+    {
+      "name": "Range Rover SE SWB2026",
+      "vin": "SALKP9E95TA375924",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/e9a47ea76ba3.html",
       "condition": "new"
     },
     {
