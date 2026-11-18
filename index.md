@@ -1,6 +1,6 @@
 # MCL Motor Cars 2010 / Aston Martin / Land Rover / Jaguar / Bentley Vancouver
 
- dealership in Vancouver. AI-readable inventory mirror, about 1224 vehicles.
+ dealership in Vancouver. AI-readable inventory mirror, about 1222 vehicles.
 
 - Official website: https://www.jlrvancouver.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/
