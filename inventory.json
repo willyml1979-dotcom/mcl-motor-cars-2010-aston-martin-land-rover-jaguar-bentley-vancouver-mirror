@@ -1,7 +1,7 @@
 {
   "dealership": "Mcl Motor Cars 2010 Aston Martin Land Rover Jaguar Bentley Vancouver",
-  "generated_at": "2026-11-18T09:15:30",
-  "vehicle_count": 1222,
+  "generated_at": "2026-11-18T15:47:26",
+  "vehicle_count": 1223,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -7332,6 +7332,12 @@
       "name": "Range Rover Velar Autobiography2026",
       "vin": "SALY12FU8TA845045",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/c5b0c6579038.html",
+      "condition": "new"
+    },
+    {
+      "name": "Range Rover Velar Autobiography2026",
+      "vin": "SALY12FU5TA844211",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/new/ffa927f49db1.html",
       "condition": "new"
     },
     {
