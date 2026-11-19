@@ -1,7 +1,7 @@
 {
   "dealership": "Mcl Motor Cars 2010 Aston Martin Land Rover Jaguar Bentley Vancouver",
-  "generated_at": "2026-11-18T15:47:26",
-  "vehicle_count": 1223,
+  "generated_at": "2026-11-18T19:52:41",
+  "vehicle_count": 1227,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -210,6 +210,12 @@
       "condition": "used"
     },
     {
+      "name": "RDX SH-AWD A-Spec2023 Acura",
+      "vin": "5J8TC2H61PL804181",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/f24b7437597a.html",
+      "condition": "used"
+    },
+    {
       "name": "RDX A-Spec SH-AWD2024 Acura",
       "vin": "5J8TC2H69RL802617",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/1d4dc2815024.html",
@@ -275,6 +281,12 @@
       "name": "TLX SH-AWD A-Spec2022 Acura",
       "vin": "19UUB6F54NA800434",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/de050e9dad86.html",
+      "condition": "used"
+    },
+    {
+      "name": "TLX A-Spec SH-AWD2023 Acura",
+      "vin": "19UUB6F57PA800382",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/ec912e70db6f.html",
       "condition": "used"
     },
     {
@@ -2691,7 +2703,7 @@
       "condition": "used"
     },
     {
-      "name": "Range Rover 2.0L PHEV P400e HSE SWB (2)2020",
+      "name": "Range Rover 5.0L V8 Supercharged P525 HSE LWB (2)2020",
       "vin": "SALGS5SE2LA573570",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/82bac9dd91e5.html",
       "condition": "used"
@@ -3084,6 +3096,12 @@
       "name": "C300 4MATIC Sedan2023 Mercedes-Benz",
       "vin": "W1KAF4HB8PR078621",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/a0c7e6436fd7.html",
+      "condition": "used"
+    },
+    {
+      "name": "C300 4MATIC Sedan2023 Mercedes-Benz",
+      "vin": "W1KAF4HB6PR086622",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/a9fa1934e625.html",
       "condition": "used"
     },
     {
@@ -5116,6 +5134,12 @@
       "name": "Crosstrek Limited CVT2024 Subaru",
       "vin": "JF2GUHNC1RH265188",
       "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/1e33f831197c.html",
+      "condition": "used"
+    },
+    {
+      "name": "Crosstrek Convenience CVT2024 Subaru",
+      "vin": "JF2GUABC5R8910890",
+      "url": "https://willyml1979-dotcom.github.io/mcl-motor-cars-2010-aston-martin-land-rover-jaguar-bentley-vancouver-mirror/used/a17630bf7c86.html",
       "condition": "used"
     },
     {
